@@ -9,9 +9,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
+source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,9 @@ ht-degree: 0%
 
 Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 안내서와 함께 이 튜토리얼 사용 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 는 Adobe의 동급 최강을 사용하여 모든 채널 또는 장치에서 Adobe Audience Manager을 사용하여 대상을 만들고 활성화하는 방법을 보다 잘 이해할 수 있도록 해줍니다 [!DNL data management platform].
 
-* 다음을 참조하십시오. **&quot;새로운 기능&quot;** 최신 업데이트 및 기능에 대한 아래 섹션
 * **직원 추천** 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * 에서 주제 및 하위 주제별로 컨텐츠 탐색 **왼쪽 탐색**
 * 사용 **검색** 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 필드
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -41,11 +38,11 @@ Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 �
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
       <img alt="&apos;웹 SDK로 Adobe Experience Cloud 구현 튜토리얼&apos;에 대한 썸네일 이미지" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
     <strong>Web SDK 튜토리얼을 사용하여 Adobe Experience Cloud 구현</strong>
     </a>
     </div>
