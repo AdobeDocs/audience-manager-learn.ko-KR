@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!UICONTROL Profile Merge Rules] 장치 확장 및 도달 범위 증가
+# 장치 확장 및 도달 범위 증가에 [!UICONTROL Profile Merge Rules] 사용
 
-사용 [!UICONTROL Profile Merge Rules] 를 활성화하면 디바이스 대신 사람들에게 마케팅할 수 있도록 를 확장하여 사용자의 모든 디바이스에 연결할 수 있습니다.
+장치 대신 사람들에게 마케팅할 수 있도록 [!UICONTROL Profile Merge Rules]을(를) 사용하여 사용자의 모든 장치에 연결할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

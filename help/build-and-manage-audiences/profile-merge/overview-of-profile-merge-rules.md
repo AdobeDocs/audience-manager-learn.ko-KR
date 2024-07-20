@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 개요 [!UICONTROL Profile Merge Rules]
+# [!UICONTROL Profile Merge Rules] 개요
 
-내용 이해 [!UICONTROL Profile Merge Rules] 즉, 작동 방식과 마케팅 담당자에 대한 가치입니다.
+[!UICONTROL Profile Merge Rules]이(가) 무엇인지, 작동 방식과 마케팅 담당자에 대한 값을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

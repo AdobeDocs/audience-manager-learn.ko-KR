@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
 source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-인바운드 파일의 데이터 형식 지정에 대한 비디오를 보려면 [여기](formatting-and-ingesting-file-based-data.md).
+인바운드 파일의 데이터 형식 지정에 대한 비디오를 보려면 [여기](formatting-and-ingesting-file-based-data.md)를 클릭하십시오.
 
-자세한 내용은 다음을 참조하십시오. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)를 참조하세요.

@@ -11,7 +11,7 @@ kt: 7272
 exl-id: 5f9a54e0-1078-402d-ad31-b3da06274bb3
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
@@ -28,4 +28,4 @@ Audience Manager에서 Real-time Customer Data Platform(실시간 CDP)로 이동
 
 * [XDM 시스템 및 경험 데이터 모델 이해](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
 * [스키마 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [스키마 편집기를 사용하여 스키마 만들기](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

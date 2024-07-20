@@ -11,8 +11,8 @@ kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 3%
+source-wordcount: '187'
+ht-degree: 1%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 3%
 
 다음은 Real-time Customer Data Platform에 대해 학습하는 데 도움이 되는 몇 가지 기존 비디오 및 튜토리얼입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [Adobe Audience Manager Data Connector를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience Platform Web SDK 튜토리얼](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [스키마 편집기를 사용하여 스키마 만들기](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Adobe Experience Platform 웹 SDK Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
+* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

@@ -11,8 +11,8 @@ kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 * [데이터 거버넌스 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
 * [거버넌스 레이블을 사용하여 데이터 분류](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
 * [데이터 사용 정책 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Real-time Customer Data Platform에서 데이터 사용 정책 시행](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [Real-time Customer Data Platform에서 데이터 사용 정책 적용](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

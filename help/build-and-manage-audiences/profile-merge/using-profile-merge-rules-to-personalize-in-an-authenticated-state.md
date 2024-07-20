@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!UICONTROL Profile Merge Rules] 인증된 상태에서 개인화하기
+# 인증된 상태에서 개인화하려면 [!UICONTROL Profile Merge Rules]을(를) 사용하십시오.
 
-다음을 사용하여 로그인한 고객에게 개인화된 경험을 제공합니다 [!UICONTROL Profile Merge Rule] 설정.
+이 [!UICONTROL Profile Merge Rule] 설정을 사용하여 로그인한 고객에게 개인화된 환경을 제공하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

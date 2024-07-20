@@ -1,6 +1,6 @@
 ---
-title: Adobe 광고 및 Adobe Audience Manager 통합
-description: Adobe Audience Manager과 Adobe 광고 간의 통합이 작동하는 방식을 알아봅니다. 또한 일치율 및 서드파티 쿠키 동기화에 대한 답변을 얻을 수 있습니다.
+title: Adobe Advertising 및 Adobe Audience Manager 통합
+description: Adobe Audience Manager과 Adobe Advertising 간의 통합이 작동하는 방식을 알아봅니다. 또한 일치율 및 서드파티 쿠키 동기화에 대한 답변을 얻을 수 있습니다.
 feature: Advertising Integration
 topics: null
 activity: understand
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe 광고 및 Adobe Audience Manager 통합
+# Adobe Advertising 및 Adobe Audience Manager 통합
 
-Adobe Audience Manager과 간의 통합 방법 알아보기 [!DNL Adobe Advertising] 효과가 있습니다. 또한 일치율 및 서드파티 쿠키 동기화에 대한 답변을 얻을 수 있습니다.
+Adobe Audience Manager과 [!DNL Adobe Advertising] 간의 통합이 작동하는 방식을 알아봅니다. 또한 일치율 및 서드파티 쿠키 동기화에 대한 답변을 얻을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

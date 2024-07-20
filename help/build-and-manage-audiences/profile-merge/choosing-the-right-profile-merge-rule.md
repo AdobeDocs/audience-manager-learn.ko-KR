@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 오른쪽 선택 [!UICONTROL Profile Merge Rule]
+# 올바른 [!UICONTROL Profile Merge Rule] 선택
 
-이 비디오에서는에 대해 가장 일반적인 사용 사례 3개를 살펴봅니다. [!UICONTROL Profile Merge Rules], 마케팅 활동에 도움이 되는 방법 등을 살펴볼 수 있습니다.
+이 비디오에서는 [!UICONTROL Profile Merge Rules]의 가장 일반적인 사용 사례 3개를 찾아서 마케팅 활동을 도울 수 있는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

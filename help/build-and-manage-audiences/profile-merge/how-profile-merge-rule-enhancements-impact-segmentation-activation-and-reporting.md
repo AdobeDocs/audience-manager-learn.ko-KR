@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 방법 [!UICONTROL Profile Merge Rule] 세그먼테이션, 활성화 및 보고에 영향을 주는 개선 사항
+# [!UICONTROL Profile Merge Rule] 개선 사항이 세분화, 활성화 및 보고에 미치는 영향
 
-방법 이해 [!UICONTROL Profile Merge Rule] 개선 사항은 다음 사항에 영향을 줍니다. [!UICONTROL Total Trait] 및 [!UICONTROL Segment Populations] Audience Manager.
+[!UICONTROL Profile Merge Rule] 개선 사항이 Audience Manager의 [!UICONTROL Total Trait] 및 [!UICONTROL Segment Populations]에 미치는 영향을 이해하고 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 만들기 [!UICONTROL Data Source] 사용자 기반 대상
+# 사용자 기반 대상에 대한 [!UICONTROL Data Source] 만들기
 
-이 비디오는 다음 항목을 만드는 과정을 안내합니다. [!UICONTROL Data Source] 사용자 기반 대상에 사용할 Audience Manager.
+이 비디오는 사용자 기반 대상에 사용할 Audience Manager에서 [!UICONTROL Data Source]을(를) 만드는 과정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

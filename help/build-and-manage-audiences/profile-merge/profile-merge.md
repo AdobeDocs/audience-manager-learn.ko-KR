@@ -12,12 +12,12 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - 비디오 및 자습서
+# [!UICONTROL Profile Merge] - 비디오 및 튜토리얼
 
 프로필 병합 규칙을 포함한 프로필 병합 기능에 대한 비디오 및 튜토리얼을 봅니다. 세그먼테이션에 사용되는 데이터 세트를 제어하고 여러 장치에서 한 사람을 정확하게 타겟팅할 수 있습니다.
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 * [대상 ID 보고 해석](interpret-audience-identity-reporting.md)
 * [Audience Manager의 교차 장치 지표 이해](understanding-cross-device-metrics-in-audience-manager.md)
 
-이러한 비디오는 [프로필 병합 규칙 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+이러한 비디오는 [프로필 병합 규칙 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)와 함께 사용할 수 있습니다

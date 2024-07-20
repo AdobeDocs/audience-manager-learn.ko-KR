@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Manager 자습서
 
-Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 안내서와 함께 이 튜토리얼 사용 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 는 Adobe의 동급 최강을 사용하여 모든 채널 또는 장치에서 Adobe Audience Manager을 사용하여 대상을 만들고 활성화하는 방법을 보다 잘 이해할 수 있도록 해줍니다 [!DNL data management platform].
+Audience Manager 자습서 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)와 함께 이 튜토리얼을 사용하면 Adobe Audience Manager을 사용하여 Adobe의 동급 최고의 [!DNL data management platform]을(를) 사용하여 모든 채널 또는 장치에서 대상을 만들고 활성화하는 방법을 더 잘 이해할 수 있습니다.
 
-* **직원 추천** 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
-* 에서 주제 및 하위 주제별로 컨텐츠 탐색 **왼쪽 탐색**
-* 사용 **검색** 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 필드
+* **직원 선택**&#x200B;은(는) 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
+* **왼쪽 탐색**&#x200B;에서 주제 및 하위 주제별로 내용 탐색
+* 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 **검색** 필드를 사용하십시오.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,11 +43,11 @@ Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 �
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
-    <strong>Web SDK 튜토리얼을 사용하여 Adobe Experience Cloud 구현</strong>
+    <strong>Web SDK를 사용하여 Adobe Experience Cloud 구현 자습서</strong>
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform Web SDK를 사용하여 Experience Cloud 애플리케이션을 구현하는 방법에 대해 알아봅니다.</em>
+    <em>Adobe Experience Platform Web SDK를 사용하여 Experience Cloud 응용 프로그램을 구현하는 방법에 대해 알아봅니다.</em>
     <p>
   </td>
   <td>
@@ -73,7 +73,7 @@ Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 �
     </a>
     </div>
     <p>
-    <em>이 비디오에서는 Audience Manager 인터페이스에서의 예측 대상 구성을 살펴봅니다.</em>
+    <em>이 비디오에서는 Audience Manager 인터페이스에서 Predictive Audiences 구성을 살펴봅니다.</em>
     <p>
   </td>
 </tr>

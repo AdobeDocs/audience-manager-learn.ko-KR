@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!UICONTROL Data Export Labels] 데이터 흐름을 제어하려면
+# [!UICONTROL Data Export Labels]을(를) 사용하여 데이터 흐름 제어
 
-[!UICONTROL Data Export Labels] 개인 정보 보호 요구 사항을 충족할 수 있도록 다양한 데이터 유형/소스의 흐름을 제어할 수 있는 Audience Manager 메커니즘을 제공합니다. 설정 방법 및 위치 알아보기 [!UICONTROL Data Export Controls] 및 [!UICONTROL Data Export Labels]를 입력하여 이 작업을 동시에 수행할 수 있습니다.
+[!UICONTROL Data Export Labels]은(는) 개인 정보 보호 요구 사항을 충족할 수 있도록 다양한 데이터 형식/소스의 흐름을 제어할 수 있는 Audience Manager 메커니즘을 제공합니다. 이를 위해 동시에 작동하도록 [!UICONTROL Data Export Controls] 및 [!UICONTROL Data Export Labels]을(를) 설정하는 방법과 위치를 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

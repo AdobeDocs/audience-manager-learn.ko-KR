@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: 103643ff-c006-4111-b469-901271faaf9d
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Audience Manager은 고객이 전 세계 또는 국가별로 IP 난독화를 켤
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)를 참조하세요.

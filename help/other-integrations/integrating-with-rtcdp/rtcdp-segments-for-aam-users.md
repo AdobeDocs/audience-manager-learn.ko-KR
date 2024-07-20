@@ -11,7 +11,7 @@ kt: 7205
 exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '148'
 ht-degree: 1%
 
 ---
@@ -26,8 +26,8 @@ Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 개�
 
 다음은 Real-time Customer Data Platform에 대해 학습하는 데 도움이 되는 몇 가지 기존 비디오 및 튜토리얼입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [스키마 편집기를 사용하여 스키마 만들기](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
 * [데이터 세트 만들기](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
 * [세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
 * [동적 세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [다중 엔티티 세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [다중 엔터티 세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

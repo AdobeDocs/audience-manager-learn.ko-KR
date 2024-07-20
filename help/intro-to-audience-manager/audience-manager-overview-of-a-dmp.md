@@ -14,7 +14,7 @@ level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
 source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html)를 참조하세요.

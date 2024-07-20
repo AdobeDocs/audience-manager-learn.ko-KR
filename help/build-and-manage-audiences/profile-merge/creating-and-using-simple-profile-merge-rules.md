@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 간단한 만들기 및 사용 [!UICONTROL Profile Merge Rules]
+# 간단한 [!UICONTROL Profile Merge Rules] 만들기 및 사용
 
-다음에 대해 알아보기 [!UICONTROL Profile Merge Rules] 세그먼트를 할당하는 방법에 대해 설명합니다. 기본에 대해 알아보기 [!UICONTROL Current Device] 프로필 및 사용 가능한 시기 및 사용해야 하는 시기.
+[!UICONTROL Profile Merge Rules] 및 이를 세그먼트에 할당하는 방법에 대해 알아봅니다. 기본 [!UICONTROL Current Device] 프로필과 사용 가능한 시기 및 사용해야 하는 시기에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
