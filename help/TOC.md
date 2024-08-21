@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics에 대한 비디오 및 튜토리얼 모
 breadcrumb-title: Audience Manager 튜토리얼
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 + [Audience Manager 자습서](overview.md)
 + {#intro-to-audience-manager} Audience Manager 소개
-   + [DMP가 비즈니스를 변경하는 방법](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [DMP이 비즈니스를 변경하는 방법](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - DMP 개요](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager 사용 사례](intro-to-audience-manager/audience-manager-use-cases.md)
    + [기본 용어 및 개념 이해](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [역할 기반 액세스 제어를 사용하여 권한 설정](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
       + [전역 장치 ID 유효성 검사](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [IAB TCF 2.0 지원](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [IAB TCF 2.2 지원](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [국가별 IP 난독화](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + 사용량 및 청구 {#usage-and-billing}
       + [활동 사용량 모니터링 및 보고](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
