@@ -1,8 +1,8 @@
 ---
 title: Analytics 데이터를 위한 Data Source 만들기
-description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행하십시오.
-landing-page-description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행하십시오.
-short-description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행하십시오.
+description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행합니다.
+landing-page-description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행합니다.
+short-description: Adobe Analytics와 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 특성을 만들기 전에 이 작업을 수행합니다.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
