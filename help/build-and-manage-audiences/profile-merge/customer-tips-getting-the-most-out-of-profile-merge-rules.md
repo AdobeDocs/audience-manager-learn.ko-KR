@@ -28,4 +28,4 @@ Varun Kalra는 Sydney에 본사를 둔 Adobe 솔루션 파트너(Partner - Accor
 * 타겟팅 사용 사례에 대해 자세히 알아보기
 * 다양한 PMR 설정에 대한 사용 사례
 
-[Experience League 커뮤니티에서 Varun의 팁을 읽으십시오.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Experience League 커뮤니티에서 Varun의 팁을 읽으십시오.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=ko)

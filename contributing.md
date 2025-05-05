@@ -18,7 +18,7 @@ ht-degree: 22%
 
 ## 기여자 안내서 설명서
 
-다음을 참조하십시오. [기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+다음을 참조하십시오. [기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko).
 
 ## 질문이 있습니까?
 
@@ -43,4 +43,4 @@ submitting a pull request!
 
 ## 보안 문제
 
-보안 문제는 이 문제 추적기에 보고하면 안 됩니다. 대신, [보안 전문가에게 문제 제기](https://helpx.adobe.com/security/alertus.html)
+보안 문제는 이 문제 추적기에 보고하면 안 됩니다. 대신, [보안 전문가에게 문제 제기](https://helpx.adobe.com/kr/security/alertus.html)

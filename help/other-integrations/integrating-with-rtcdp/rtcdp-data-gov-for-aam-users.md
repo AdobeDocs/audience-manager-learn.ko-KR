@@ -26,7 +26,7 @@ ht-degree: 1%
 
 다음은 Real-time Customer Data Platform에 대해 학습하는 데 도움이 되는 몇 가지 기존 비디오 및 튜토리얼입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [데이터 거버넌스 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [거버넌스 레이블을 사용하여 데이터 분류](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [데이터 사용 정책 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Real-time Customer Data Platform에서 데이터 사용 정책 적용](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [데이터 거버넌스 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=ko#data-governance)
+* [거버넌스 레이블을 사용하여 데이터 분류](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=ko#data-governance)
+* [데이터 사용 정책 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=ko#data-governance)
+* [Real-time Customer Data Platform에서 데이터 사용 정책 적용](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=ko#data-governance)

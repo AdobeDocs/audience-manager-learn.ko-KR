@@ -28,4 +28,4 @@ Matt Vittorioso는 Ally Financial의 디지털 마케팅 팀에서 수석 마케
 * 즉시 사용 가능한 기능 활용
 * 정기적으로 트레이트 및 세그먼트 검토
 
-[Experience League 커뮤니티에서 Matt의 팁을 읽어 보세요.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Experience League 커뮤니티에서 Matt의 팁을 읽어 보세요.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=ko)

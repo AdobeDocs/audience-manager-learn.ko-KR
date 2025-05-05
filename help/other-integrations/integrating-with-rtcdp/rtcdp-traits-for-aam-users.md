@@ -26,6 +26,6 @@ Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 개�
 
 다음은 Real-time Customer Data Platform에 대해 학습하는 데 도움이 되는 몇 가지 기존 비디오 및 튜토리얼입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [데이터 집합 만들기 및 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
-* [세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ko#getting-started)
+* [데이터 집합 만들기 및 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=ko#data-ingestion)
+* [세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ko#segments)

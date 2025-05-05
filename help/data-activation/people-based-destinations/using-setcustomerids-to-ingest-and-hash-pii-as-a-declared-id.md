@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=ko)를 참조하세요.

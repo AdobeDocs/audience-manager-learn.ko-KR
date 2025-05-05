@@ -26,4 +26,4 @@ Audience Manager에서 일상적인 작업을 수행할 때 특정 키/값 쌍�
 
 신호가 트레이트에 생성되었는지 확인하려면 더 이상 BAAAM 파일과 [!UICONTROL Unused Signals] 보고서를 다운로드할 필요가 없습니다. 이제 AAM에서 [!DNL Data Explorer] (예: [!UICONTROL Signals] 앱)에서 해당 키/값 쌍을 검색하고 트레이트에 있는 키/값 쌍과 그렇지 않은 키/값 쌍을 모두 동일한 목록에서 찾을 수 있습니다. 멋진 시간 절약!
 
-[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)를 참조하세요.
+[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ko)를 참조하세요.

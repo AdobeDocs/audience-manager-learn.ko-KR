@@ -25,11 +25,11 @@ ht-degree: 2%
    + 값 실현 {#value-realization}
       + [고객 억제 사용 사례에서 ROI 측정하기](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 업계 뉴스 및 트렌드 {#industry}
-   + [데이터 관리의 미래와 변화하는 환경](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [두 가지 인식에 대한 이야기 - 브랜드 대 소비자](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Audience Center of Excellence를 발전시키는 중](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [고객 프로필을 통해 더 나은 경험 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [데이터 관리의 미래와 변화하는 환경](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=ko)
+   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ko)
+   + [두 가지 인식에 대한 이야기 - 브랜드 대 소비자](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=ko)
+   + [Audience Center of Excellence를 발전시키는 중](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=ko)
+   + [고객 프로필을 통해 더 나은 경험 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=ko)
 + 설정 및 관리자 {#setup-and-admin}
    + 데이터 원본 {#data-sources}
       + [Analytics 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 2%
    + DIL(Data Integration Library) {#dil}
       + [DIL 버전 8.0 이상으로 업데이트](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF(서버측 전달) {#ssf}
-      + [Experience Platform 태그를 사용하여 웹 사이트에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Experience Platform 태그를 사용하여 웹 사이트에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ko)
       + [사이트의 AAM 구현을 클라이언트측 DIL에서 서버측 전달로 마이그레이션](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [추적 서버에서 보고서 세트 수준의 서버측 전달로 마이그레이션](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [태그 관리자를 사용하여 Audience Manager 구현](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 2%
    + [파일 기반 데이터 포맷 및 수집](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [파일 기반 데이터 수집 단계](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 모바일 구현 {#mobile-implementation}
-   + [iOS Swift 애플리케이션에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [iOS Objective-C 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Android 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [iOS Swift 애플리케이션에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ko)
+   + [iOS Objective-C 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ko)
+   + [Android 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ko)
 + Audience Marketplace {#audience-marketplace}
    + 데이터를 구입하는 중{#buying-data}
       + [세그먼트 수준에서 Audience Marketplace의 제2자 및 타사 데이터 사용 보고](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -130,7 +130,7 @@ ht-degree: 2%
       + [데이터 내보내기 레이블을 사용하여 데이터 플로우 제어](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + 대상 랩 {#audience-lab}
       + [대상 랩을 사용하여 DSP 선택](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [전환 특성 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [전환 특성 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=ko)
    + 사용자 기반 대상 {#people-based-destinations}
       + [사용자 기반 대상 비디오 및 자습서](data-activation/people-based-destinations/pbd.md)
       + [사용자 기반 대상 데이터 흐름](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
    + [Audience Optimization 보고서를 사용하여 미디어 성능 이해](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 기타 통합 {#other-integrations}
    + Real-time Customer Data Platform과(와) 통합 {#integrating-with-rtcdp}
-      + [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ko#sources)
       + [Real-time CDP의 자사 데이터 수집 이해](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Real-time CDP의 웹 데이터 수집 이해](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [실시간 CDP의 스키마 및 XDM 이해](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
