@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 형식 표준 개요 {#overview-of-format-standards}
 
-다음은 AAM에서 현재 인식되고 지원하는 글로벌 장치 Advertising ID 풀입니다. 이러한 데이터는 이러한 플랫폼의 사용자에 연결된 데이터로 작동하는 모든 고객 또는 데이터 파트너가 사용할 수 있는 공유 [!UICONTROL Data Sources](으)로 구현됩니다.
+다음은 AAM에서 현재 인식되고 지원하는 글로벌 장치 Advertising ID 풀입니다. 이러한 데이터는 이러한 플랫폼의 사용자에 연결된 데이터로 작동하는 모든 고객 또는 데이터 파트너가 사용할 수 있는 공유 [!UICONTROL Data Sources] (으)로 구현됩니다.
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 ## 잘못된 ID에 대한 DCS 오류 메시지  {#dcs-error-messaging-for-incorrect-ids}
 
-Audience Manager에 잘못된 글로벌 장치 ID(IDFA, GAID 등)가 실시간으로 제출되면 히트에서 오류 코드가 반환됩니다. 다음은 ID가 대문자만 포함해야 하는 [!DNL Apple IDFA](으)로 전송되었지만 ID에 소문자가 &#39;x&#39;인 경우 반환되는 오류의 예입니다.
+Audience Manager에 잘못된 글로벌 장치 ID(IDFA, GAID 등)가 실시간으로 제출되면 히트에서 오류 코드가 반환됩니다. 다음은 ID가 대문자만 포함해야 하는 [!DNL Apple IDFA] (으)로 전송되었지만 ID에 소문자가 &#39;x&#39;인 경우 반환되는 오류의 예입니다.
 
 ![오류 이미지](assets/image_4_.png)
 

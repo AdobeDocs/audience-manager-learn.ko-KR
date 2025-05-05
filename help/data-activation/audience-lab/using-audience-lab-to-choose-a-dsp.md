@@ -28,7 +28,7 @@ ht-degree: 0%
 1. 만들려는 [!UICONTROL segments] 테스트 수를 선택합니다(테스트할 DSP 수는?).
    * DSP 대상과 비교할 수 있도록 테스트 [!UICONTROL segments] 중 하나를 DSP에 전송되지 않는 컨트롤 세그먼트로 설정합니다.
 1. 성공을 측정하고 우승자를 선택할 수 있는 트레이트인 전환 트레이트를 선택합니다
-1. [!UICONTROL Destinations](즉, DSP)을(를) 선택하고 [!UICONTROL segments] 테스트를 할당하십시오.
+1. [!UICONTROL Destinations] (즉, DSP)을(를) 선택하고 [!UICONTROL segments] 테스트를 할당하십시오.
 1. 테스트 요약을 확인하고 테스트를 활성화합니다
 1. 테스트가 완료되면 [!UICONTROL Audience Lab]의 기본 홈 화면에 있는 결과에 액세스하십시오.
 

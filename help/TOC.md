@@ -15,7 +15,7 @@ ht-degree: 2%
 # Audience Manager 튜토리얼 {#tutorials}
 
 + [Audience Manager 자습서](overview.md)
-+ {#intro-to-audience-manager} Audience Manager 소개
++ Audience Manager 소개{#intro-to-audience-manager}
    + [DMP이 비즈니스를 변경하는 방법](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - DMP 개요](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager 사용 사례](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -26,7 +26,7 @@ ht-degree: 2%
       + [고객 억제 사용 사례에서 ROI 측정하기](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 업계 뉴스 및 트렌드 {#industry}
    + [데이터 관리의 미래와 변화하는 환경](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + 책임 있는 고객 데이터 관리를 위한 [10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [두 가지 인식에 대한 이야기 - 브랜드 대 소비자](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
    + [Audience Center of Excellence를 발전시키는 중](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [고객 프로필을 통해 더 나은 경험 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
@@ -52,7 +52,7 @@ ht-degree: 2%
    + [태그 관리자를 사용하여 Audience Manager 구현](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [파트너 ID 또는 하위 도메인을 식별하는 방법](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [SPA 페이지에서 모범 사례 사용](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ 오프라인 데이터 {#integrating-offline-data} 통합 중
++ 오프라인 데이터 통합 중 {#integrating-offline-data}
    + [파일 기반 데이터 포맷 및 수집](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [파일 기반 데이터 수집 단계](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 모바일 구현 {#mobile-implementation}
@@ -60,13 +60,13 @@ ht-degree: 2%
    + [iOS Objective-C 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Android 응용 프로그램에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + {#buying-data} 데이터를 구입하는 중
+   + 데이터를 구입하는 중{#buying-data}
       + [세그먼트 수준에서 Audience Marketplace의 제2자 및 타사 데이터 사용 보고](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [데이터 사용량을 Audience Marketplace에 일괄 업로드](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [필터 및 권장 사항을 사용하여 Audience Marketplace에서 타사 데이터를 선택합니다.](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + 데이터 {#selling-data} 판매 중
+   + 데이터 판매 중 {#selling-data}
       + [Marketplace에서 소유한 대상 상업화](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ 대상 {#build-and-manage-audiences} 빌드 및 관리
++ 대상 빌드 및 관리 {#build-and-manage-audiences}
    + 데이터 탐색기 {#data-explorer}
       + [신호 대시보드를 사용하여 사용 가능한 상위 신호를 빠르게 봅니다](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [사용된 키/값 쌍과 사용하지 않은 키/값 쌍을 검색하려면 Data Explorer 사용](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -149,7 +149,7 @@ ht-degree: 2%
    + [중복 보고서를 사용하여 관련 대상 이해](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimization 보고서를 사용하여 미디어 성능 이해](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 기타 통합 {#other-integrations}
-   + Real-time Customer Data Platform {#integrating-with-rtcdp}과(와) 통합
+   + Real-time Customer Data Platform과(와) 통합 {#integrating-with-rtcdp}
       + [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Real-time CDP의 자사 데이터 수집 이해](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Real-time CDP의 웹 데이터 수집 이해](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
@@ -160,7 +160,7 @@ ht-degree: 2%
       + [Real-time CDP의 대상 이해](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [Real-time CDP의 액세스 제어 이해](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [실시간 CDP의 데이터 거버넌스 이해](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
-   + Ad Cloud {#integrating-with-ad-cloud}과(와) 통합
+   + Ad Cloud과(와) 통합 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [Adobe Developer에서 API 자격 증명 검색](api/retrieve-api-credentials-in-adobe-io.md)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Trait Recommendations](으)로 세그먼트 개선 {#enhancing-your-aam-segments-with-trait-recommendations}
+# [!UICONTROL Trait Recommendations] (으)로 세그먼트 개선 {#enhancing-your-aam-segments-with-trait-recommendations}
 
 [!UICONTROL Trait Recommendations]을(를) 사용하면 [!UICONTROL Segments]에서 세그먼트를 작성하거나 편집할 때 포함할 수 있는 추가 트레이트에 대한 권장 사항을 얻을 수 있습니다. 이러한 권장 사항은 세그먼트 규칙의 트레이트와 유사합니다.
 

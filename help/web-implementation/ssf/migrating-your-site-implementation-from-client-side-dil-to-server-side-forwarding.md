@@ -43,7 +43,7 @@ AAM 구현의 서버측 전달 방법으로 이동하는 것이 좋습니다.
 
 위의 이미지에 표시된 대로 히트는 웹 페이지에서 Adobe Analytics으로 이동합니다. 그런 다음 [!DNL Analytics]이(가) 해당 데이터를 실시간으로 AAM에 전달하면 히트가 페이지에서 바로 온 것처럼 방문자가 AAM 트레이트 및 [!UICONTROL segments]로 평가됩니다.
 
-개인화를 위해 웹 페이지에 응답을 전달하는 등의 작업을 수행하는 동일한 실시간 히트에서 [!UICONTROL Segments]이(가) [!DNL Analytics](으)로 다시 반환됩니다.
+개인화를 위해 웹 페이지에 응답을 전달하는 등의 작업을 수행하는 동일한 실시간 히트에서 [!UICONTROL Segments]이(가) [!DNL Analytics] (으)로 다시 반환됩니다.
 
 서버측 전달로 이동하는 데 있어 시간 단축이 없습니다. Adobe은 Audience Manager과 [!DNL Analytics]을(를) 모두 가진 모든 사람이 이 구현 메서드를 사용하도록 권장합니다.
 
@@ -164,13 +164,13 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 >[!NOTE]
 >
->데이터의 작은 중복보다 작은 불일치가 더 나을 경우 위의 1단계와 2단계의 순서를 변경할 수 있습니다. DIL에서 서버측 전달로 코드를 이동하면 스위치를 전환하여 [!UICONTROL report suite]에 대한 서버측 전달을 켤 수 있을 때까지 AAM으로의 데이터 흐름이 중지됩니다. 일반적으로 고객은 방문자를 트레이트와 [!UICONTROL segments](으)로 보내는 것을 놓치기 보다는 적은 두 배의 데이터를 갖는 것이 좋습니다.
+>데이터의 작은 중복보다 작은 불일치가 더 나을 경우 위의 1단계와 2단계의 순서를 변경할 수 있습니다. DIL에서 서버측 전달로 코드를 이동하면 스위치를 전환하여 [!UICONTROL report suite]에 대한 서버측 전달을 켤 수 있을 때까지 AAM으로의 데이터 흐름이 중지됩니다. 일반적으로 고객은 방문자를 트레이트와 [!UICONTROL segments] (으)로 보내는 것을 놓치기 보다는 적은 두 배의 데이터를 갖는 것이 좋습니다.
 
 #### 사이트가 많고 [!UICONTROL report suites]이(가) 있는 경우 마이그레이션 시간 {#migration-timing-when-you-have-many-sites-and-report-suites}
 
 이 주제는 주요 전략을 다음과 같이 요약할 수 있다는 점에서 이전 섹션에서 간단히 설명합니다.
 
-한 번에 하나의 사이트/[!UICONTROL report suite](또는 사이트 그룹/[!UICONTROL report suites])를 마이그레이션합니다.
+한 번에 하나의 사이트/[!UICONTROL report suite] (또는 사이트 그룹/[!UICONTROL report suites])를 마이그레이션합니다.
 
 그러나 몇 가지 가능한 시나리오에 따라 다소 까다로울 수 있습니다.
 

@@ -34,7 +34,7 @@ Adobe Audience Manager 및 Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-서버측 전달이 [!UICONTROL tracking server] 수준에서 전달하도록 설정되어 있는 경우, 이 [!UICONTROL tracking server](Experience Cloud ID 서비스 또한 사용하도록 설정된 경우)로 전송되는 모든 히트가 Audience Manager으로 전달됩니다. 이는 Adobe 고객 지원 센터 또는 Adobe Consulting에서 활성화해야 합니다. 또한 아래 설명된 대로 [!UICONTROL report suite] 전달로 전환한 후 이를 비활성화할 수 있습니다.
+서버측 전달이 [!UICONTROL tracking server] 수준에서 전달하도록 설정되어 있는 경우, 이 [!UICONTROL tracking server] (Experience Cloud ID 서비스 또한 사용하도록 설정된 경우)로 전송되는 모든 히트가 Audience Manager으로 전달됩니다. 이는 Adobe 고객 지원 센터 또는 Adobe Consulting에서 활성화해야 합니다. 또한 아래 설명된 대로 [!UICONTROL report suite] 전달로 전환한 후 이를 비활성화할 수 있습니다.
 
 [!DNL tracking server forwarding]이(가) 활성화되어 있는지 확실하지 않은 경우 Adobe 고객 지원 센터 또는 Adobe Consulting에 연락하면 알려 줄 수 있습니다.
 
