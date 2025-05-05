@@ -22,4 +22,4 @@ ht-degree: 0%
 
 특성을 만들 때 입력해야 할 중요한 필드 중 하나는 [!UICONTROL Data Source] 필드입니다. 규칙 기반 및 온보딩된 트레이트에 적합한 데이터 소스를 선택하는 방법에 대한 팁을 얻을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330135/?quality=12&learn=on&captions=kor)

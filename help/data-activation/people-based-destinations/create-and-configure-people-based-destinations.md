@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오는 먼저 사용자 기반 대상을 만들기 위한 필수 구성 요소에 대한 정보를 제공한 다음 통합 계정(예: [!DNL Facebook] 파트너 링크)을 구성하는 방법을 보여 줍니다. 그런 다음 대상 자체의 제품 내 설정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32075/?quality=12&captions=kor)

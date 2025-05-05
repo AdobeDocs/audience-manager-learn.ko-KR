@@ -28,4 +28,4 @@ ht-degree: 0%
 * Adobe Analytics 사용 시 비 Adobe 태그 관리자를 통해 구현
 * Adobe Analytics을 사용하지 않을 때 비 Adobe 태그 관리자를 통해 구현
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32945/?quality=12&captions=kor)

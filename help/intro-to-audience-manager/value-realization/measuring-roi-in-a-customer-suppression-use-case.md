@@ -22,4 +22,4 @@ ht-degree: 0%
 
 한 푼을 아끼면 한 푼을 버는 거지? 기존 고객에 대한 광고를 억제하여 캠페인 비용 절감을 결정하는 몇 가지 공식의 사용 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41303/?quality=12&learn=on&captions=kor)

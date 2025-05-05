@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Manager에서 Real-time Customer Data Platform(실시간 CDP)로 이동하면 몇 가지 새로운 개념과 사례를 접하게 됩니다. 스키마 및 XDM이 해당 범주에 속합니다. 이 비디오에서는 이러한 개념에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410357/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

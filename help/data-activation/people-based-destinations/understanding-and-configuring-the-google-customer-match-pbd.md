@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 Google Customer Match People Based Destination의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 안내 설명이 포함됩니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326464/?quality=12&learn=on&captions=kor)

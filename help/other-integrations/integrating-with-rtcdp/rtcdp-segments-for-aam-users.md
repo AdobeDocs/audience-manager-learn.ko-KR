@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 개념의 차이점을 이해하는 것이 도움이 됩니다. 이 비디오에서는 Audience Manager과 Real-Time CDP 간의 세그먼트 및 세그먼트 생성에서의 차이점을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347033/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 사용자 및 그룹 권한이 설정된 위치를 알고 싶을 수 있습니다. 이 비디오는 이제 Adobe Admin Console에서 액세스 제어를 어떻게 수행하는지 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410907/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

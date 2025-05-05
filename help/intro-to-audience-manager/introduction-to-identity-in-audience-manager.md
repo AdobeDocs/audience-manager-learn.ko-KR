@@ -24,4 +24,4 @@ ht-degree: 86%
 
 이 비디오에서는 내부 프로필 및 프로필 병합과 ID 동기화 등 Adobe Audience Manager가 ID를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38414/?quality=12&captions=kor)

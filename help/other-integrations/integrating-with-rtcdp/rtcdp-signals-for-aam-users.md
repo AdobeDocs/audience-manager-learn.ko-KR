@@ -20,7 +20,7 @@ ht-degree: 1%
 
 이 비디오는 Real-time Customer Data Platform(실시간 CDP)로 전환하는 Audience Manager 사용자를 대상으로 하며, 사용자가 Audience Manager에서 특성을 빌드하는 데 사용하는 신호(키-값 쌍)가 Platform에서 사용되는 방식에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410881/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

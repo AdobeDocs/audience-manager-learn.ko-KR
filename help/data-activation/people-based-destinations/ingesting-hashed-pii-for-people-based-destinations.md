@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 해시된 이메일 주소와 고객 ID(CRM ID)를 함께 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다. 이를 통해 해시된 이메일 주소를 사용자 기반 대상(예: [!DNL Facebook])으로 보낼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31704/?quality=12&captions=kor)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager UI에서 [!UICONTROL Trait Builder]을(를) 사용하여 Audience Manager 프로필로 실시간 활동을 캡처할 수 있도록 규칙 기반 특성을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38157/?quality=12&learn=on&captions=kor)

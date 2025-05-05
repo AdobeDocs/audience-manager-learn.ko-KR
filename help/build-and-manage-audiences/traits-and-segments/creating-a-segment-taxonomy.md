@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager에서 세그먼트를 만들면 폴더 기반 구조 또는 &quot;분류 체계&quot;에 저장합니다. 세그먼트 분류 체계의 생성 및 관리에 대한 몇 가지 팁을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326864/?quality=12&learn=on&captions=kor)

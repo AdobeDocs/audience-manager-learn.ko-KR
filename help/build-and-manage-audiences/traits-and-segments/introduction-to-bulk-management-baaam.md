@@ -20,7 +20,7 @@ ht-degree: 0%
 
 일반적으로 &quot;BAAAM&quot;이라고 하는 Audience Manager [!UICONTROL Bulk Management] 도구에 대해 알아봅니다. BAAAM 시트를 사용하여 REST API를 통해 트레이트 및 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 인증하는 방법을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340487/?quality=12&learn=on&captions=kor)
 
 >[!IMPORTANT]
 >
