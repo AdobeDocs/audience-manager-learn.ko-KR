@@ -25,7 +25,7 @@ ht-degree: 0%
 
 이 짧은 비디오를 시청하지 않고 바로 들어가서 찾는 것이 나을 경우 UI의 두 위치에서 `Partner Subdomain`을(를) 찾을 수 있습니다.
 
-1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 **[!UICONTROL Get Trait URL]**을(를) 클릭합니다.
+1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 **[!UICONTROL Get Trait URL]**&#x200B;을(를) 클릭합니다.
    [!UICONTROL Get Trait URL]은(는) 해당 폴더의 특성 목록에서 특성 옆에 있으며 URL에 하위 도메인이 포함됩니다.
 1. **[!UICONTROL Tools]** > **[!UICONTROL Tags]** 인터페이스로 이동하여 컨테이너에 대해 **[!UICONTROL Get code]**&#x200B;을(를) 클릭하면 하위 도메인이 Akamai 줄의 끝으로 이동합니다.
 

@@ -26,7 +26,7 @@ ht-degree: 3%
       + [고객 억제 사용 사례에서 ROI 측정하기](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 업계 뉴스 및 트렌드 {#industry}
    + [데이터 관리의 미래와 변화하는 환경](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + 책임 있는 고객 데이터 관리를 위한 [10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [책임 있는 고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [두 가지 인식에 대한 이야기 - 브랜드 대 소비자](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
    + [Audience Center of Excellence를 발전시키는 중](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [고객 프로필을 통해 더 나은 경험 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
