@@ -22,6 +22,6 @@ ht-degree: 0%
 
 이 비디오에서는 Audience Manager [!UICONTROL Predictive Audiences], 작동 방식에 대한 자세한 내용 및 일반적인 사용 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36665/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=ko)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)를 참조하세요.

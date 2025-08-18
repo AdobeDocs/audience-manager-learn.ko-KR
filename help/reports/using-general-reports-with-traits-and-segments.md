@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340806/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

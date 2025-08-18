@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오는 Audience Manager에서 사용자 기반 대상에 사용할 세그먼트를 만드는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31702/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

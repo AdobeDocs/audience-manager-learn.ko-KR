@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager의 다양한 대상 유형과 각 대상 유형에 대한 세그먼트 매핑의 세부 정보에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327390/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

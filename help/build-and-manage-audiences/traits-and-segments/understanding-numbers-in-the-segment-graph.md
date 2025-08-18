@@ -22,4 +22,4 @@ ht-degree: 0%
 
 세그먼트 정보 화면의 그래프에 표시되는 숫자에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326856/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

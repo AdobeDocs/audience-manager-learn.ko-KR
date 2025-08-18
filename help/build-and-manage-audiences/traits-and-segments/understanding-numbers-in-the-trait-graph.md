@@ -22,4 +22,4 @@ ht-degree: 0%
 
 특성 정보 화면에서 특성에 대해 보고된 수치를 이해하는 데 대한 팁을 얻을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340525/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

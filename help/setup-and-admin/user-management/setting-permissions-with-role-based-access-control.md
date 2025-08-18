@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Audience Manager의 역할 기반 액세스 제어를 사용하면 트레이트, 세그먼트, 대상, 모델 등 에셋을 확인하고 작업할 사용자를 제어하여 그룹 수준에서 권한을 관리할 수 있습니다. 권한 그룹을 설정하고 해당 그룹에 사용자를 추가하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449394/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

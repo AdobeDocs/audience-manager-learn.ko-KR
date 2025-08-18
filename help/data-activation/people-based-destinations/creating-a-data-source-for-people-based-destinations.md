@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오는 사용자 기반 대상에 사용할 Audience Manager에서 [!UICONTROL Data Source]을(를) 만드는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31965/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

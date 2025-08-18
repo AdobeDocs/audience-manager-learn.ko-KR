@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager에서 트렌드 보고서를 사용하여 트레이트와 세그먼트가 시간에 따라 어떻게 작동하는지 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340800/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 [!UICONTROL Profile Merge Rule] 설정을 사용하여 로그인한 고객에게 개인화된 환경을 제공하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/40012/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

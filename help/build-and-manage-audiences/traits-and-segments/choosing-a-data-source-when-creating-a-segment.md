@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager에서 새 세그먼트를 만들 때 올바른 데이터 소스를 선택하는 방법에 대한 몇 가지 팁을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327399/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 파트너 ID 또는 하위 도메인을 식별하는 방법
-description: 일부 Experience Cloud 기능을 구현할 때 파트너 ID 또는 하위 도메인을 식별하는 방법에 대해 알아보고, Audience Manager UI에서 이 ID를 가져올 수 있는 두 가지 위치에 대해 알아봅니다.
+description: 일부 Experience Cloud 기능을 구현할 때 파트너 ID 또는 하위 도메인을 식별하는 방법을 알아보고, Audience Manager UI에서 이 ID를 가져올 수 있는 두 가지 위치에 대해 알아봅니다.
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # Audience Manager 하위 도메인을 식별하는 방법 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-일부 Experience Cloud 기능을 구현할 때는 Audience Manager `Subdomain`이(가) 무엇인지 알고 있어야 합니다(`client ID` 또는 `Partner ID`이라고도 함). 이 비디오에서는 Audience Manager UI에서 이 정보를 가져올 수 있는 두 위치를 보여 줍니다.
+일부 Experience Cloud 기능을 구현할 때는 Audience Manager `Subdomain`이(가) 무엇인지(또는 `client ID` 또는 `Partner ID`) 알고 있어야 합니다. 이 비디오에서는 Audience Manager UI에서 이 정보를 가져올 수 있는 두 위치를 보여 줍니다.
 
 ## 결말을 퍼붓는 중... {#giving-away-the-ending}
 
 이 짧은 비디오를 시청하지 않고 바로 들어가서 찾는 것이 나을 경우 UI의 두 위치에서 `Partner Subdomain`을(를) 찾을 수 있습니다.
 
-1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 **[!UICONTROL Get Trait URL]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 **[!UICONTROL Get Trait URL]**을(를) 클릭합니다.
    [!UICONTROL Get Trait URL]은(는) 해당 폴더의 특성 목록에서 특성 옆에 있으며 URL에 하위 도메인이 포함됩니다.
 1. **[!UICONTROL Tools]** > **[!UICONTROL Tags]** 인터페이스로 이동하여 컨테이너에 대해 **[!UICONTROL Get code]**&#x200B;을(를) 클릭하면 하위 도메인이 Akamai 줄의 끝으로 이동합니다.
 
 이러한 빠른 참조로 빠르게 찾을 수 없는 경우 이 비디오는 짧은 시간 약속입니다. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/40893/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >

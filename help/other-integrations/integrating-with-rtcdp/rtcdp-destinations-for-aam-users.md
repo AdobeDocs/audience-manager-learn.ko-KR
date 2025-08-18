@@ -1,6 +1,6 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 대상 이해
-description: Audience Manager에서 Real-time Customer Data Platform(실시간 CDP)로 이동할 때 대상에 대해 알아야 한다면 대상 파트너에게 대상 세그먼트를 활성화하는 방법에 대해 알아보십시오. 이 비디오에서는 Real-Time CDP의 다양한 대상 유형과 위치에 대해 설명합니다.
+description: Audience Manager에서 실시간 고객 데이터 플랫폼(실시간 CDP)으로 이동하여 대상에 대해 알아야 한다면 대상 파트너에게 대상 세그먼트를 활성화하는 방법에 대해 알아보십시오. 이 비디오에서는 Real-Time CDP의 다양한 대상 유형과 위치에 대해 설명합니다.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Audience Manager 사용자를 위한 실시간 CDP의 대상 이해
 
-Audience Manager에서 Real-time Customer Data Platform(실시간 CDP)로 이동할 때 대상에 대해 알아야 한다면 대상 파트너에게 대상 세그먼트를 활성화하는 방법에 대해 알아보십시오. 이 비디오에서는 Real-Time CDP의 다양한 대상 유형과 위치에 대해 설명합니다.
+Audience Manager에서 실시간 고객 데이터 플랫폼(실시간 CDP)으로 이동하여 대상에 대해 알아야 한다면 대상 파트너에게 대상 세그먼트를 활성화하는 방법에 대해 알아보십시오. 이 비디오에서는 Real-Time CDP의 다양한 대상 유형과 위치에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410887/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 장치 대신 사람들에게 마케팅할 수 있도록 [!UICONTROL Profile Merge Rules]을(를) 사용하여 사용자의 모든 장치에 연결할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40028/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

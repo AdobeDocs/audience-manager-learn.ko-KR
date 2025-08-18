@@ -1,6 +1,6 @@
 ---
 title: 사용자 기반 대상에 대한 해시된 PII 데이터 수집 이해
-description: 이 비디오는 PII를 사용자 기반 대상의 Audience Manager에 수집할 준비가 되면 고려해야 하는 사항에 대해 설명합니다.
+description: 이 비디오는 PII를 Audience Manager for People-based Destinations로 수집할 준비가 되면 고려해야 하는 사항에 대해 다룹니다.
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 사용자 기반 대상에 대한 해시된 PII 데이터 수집 이해
 
-이 비디오는 PII를 사용자 기반 대상의 Audience Manager에 수집할 준비가 되면 고려해야 하는 사항에 대해 설명합니다.
+이 비디오는 PII를 Audience Manager for People-based Destinations로 수집할 준비가 되면 고려해야 하는 사항에 대해 다룹니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

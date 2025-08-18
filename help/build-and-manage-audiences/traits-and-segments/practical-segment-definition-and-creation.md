@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 세그먼트를 정의한 다음 만드는 데 필요한 트레이트/신호에 따라 분류하는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326722/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

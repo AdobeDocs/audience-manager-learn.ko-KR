@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Audience Manager과 [!DNL Adobe Advertising] 간의 통합이 작동하는 방식을 알아봅니다. 또한 일치율 및 서드파티 쿠키 동기화에 대한 답변을 얻을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35558/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

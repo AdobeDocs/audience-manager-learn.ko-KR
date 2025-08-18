@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * Adobe Analytics을 사용할 때도 Adobe Experience Platform 태그(이전의 Launch)를 통해 구현
 * Adobe Analytics을 사용하지 않을 때 Adobe Experience Platform 태그를 통해 구현
-* Adobe Analytics 사용 시 비 Adobe 태그 관리자를 통해 구현
-* Adobe Analytics을 사용하지 않을 때 비 Adobe 태그 관리자를 통해 구현
+* Adobe Analytics 사용 시 Adobe 이외의 태그 관리자를 통한 구현
+* Adobe Analytics을 사용하지 않을 때 Adobe 이외의 태그 관리자를 통해 구현
 
->[!VIDEO](https://video.tv.adobe.com/v/32945/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

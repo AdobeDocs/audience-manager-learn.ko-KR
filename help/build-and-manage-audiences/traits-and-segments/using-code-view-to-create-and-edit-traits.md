@@ -22,4 +22,4 @@ ht-degree: 0%
 
 새 트레이트를 만들거나 기존 트레이트를 편집할 때 코드 보기를 사용하는 방법을 알아봅니다. 코드 보기는 특성 표현식을 설정할 때 표현식 빌더 대신 사용됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330143/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
