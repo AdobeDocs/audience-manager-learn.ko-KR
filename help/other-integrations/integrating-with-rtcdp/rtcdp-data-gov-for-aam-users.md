@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Manager 사용자는 이 비디오를 통해 Audience Manager의 기능과 비교하여 실시간 고객 데이터 플랫폼 의 데이터 거버넌스 기능에 대해 알아볼 수 있습니다. 이 비디오에서는 데이터 사용 및 레이블 적용 (DULE) 프레임워크와 적용 가능한 Platform 내 위치를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410875/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스
 

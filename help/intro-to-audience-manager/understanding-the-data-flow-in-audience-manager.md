@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오는 애플리케이션 내부, 전체 및 외부 데이터 흐름을 설명함으로써 Adobe Audience Manager을 이해하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37077/?quality=12&captions=kor)

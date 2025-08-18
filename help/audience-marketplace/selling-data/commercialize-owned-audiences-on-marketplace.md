@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 Audience Marketplace에서 데이터를 비공개 또는 공개 데이터 피드로 설정하여 제2자 데이터 또는 서드파티 데이터의 데이터 공급자로 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410863/?quality=12&learn=on&captions=kor)

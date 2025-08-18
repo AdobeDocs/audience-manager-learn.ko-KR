@@ -22,7 +22,7 @@ ht-degree: 0%
 
 고객을 더 잘 이해하고 타겟팅하기 위해 자사 제품을 Audience Manager으로 가져올 때 데이터에 대한 특정 서식 요구 사항이 있습니다. 이 비디오에서는 몇 가지 주요 옵션을 살펴보고 자세한 정보를 얻을 수 있는 위치를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346207/?quality=12&learn=on&captions=kor)
 
 파일 이름 지정 및 가져오기에 대한 비디오를 보려면 [여기](steps-for-ingesting-file-based-data.md)를 클릭하십시오.
 

@@ -32,7 +32,7 @@ IAB TCF용 Audience Manager 플러그인은 옵트인의 기능을 확장하며 
 
 Adobe Experience Platform Launch을 사용하는 경우 아래 짧은 비디오에 표시된 간단한 확인란이므로 IAB TCF용 Audience Manager 플러그인을 쉽게 활성화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38262/?quality=12&captions=kor)
 
 또는 Launch를 사용하지 않는 경우 Experience Cloud 방문자를 인스턴스화할 때 `isIabContext=true`을(를) 사용하여 활성화할 수 있습니다. 이렇게 하면 IAB TCF 흐름이 시작됩니다. 즉, 동의 수집에 다른 단계를 추가하고, IAB TCF를 사용하여 IAB TC 문자열을 쿼리하고 이를 다시 옵트인에 제공하여 Experience Cloud 솔루션과 통신합니다.
 
@@ -84,6 +84,6 @@ IAB TCF용 Audience Manager 플러그인을 사용하면, 글로벌 공급업체
 
 아래 비디오에서는 ECID 및 솔루션의 쿠키 및 비콘이 IAB 사용자 선택 사항의 영향을 받는 방식을 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38246/?quality=12&captions=kor)
 
 구현 및 테스트, 사용 사례 및 워크플로 방법 등 IAB TCF 2.2용 Audience Manager 플러그인에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ko)를 참조하십시오.

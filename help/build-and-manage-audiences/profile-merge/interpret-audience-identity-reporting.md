@@ -22,4 +22,4 @@ ht-degree: 0%
 
 대상 ID 보고에서는 고객이 ID에 대한 개인/가구 정의별 트레이트 또는 세그먼트의 총 모집단을 보고할 수 있습니다. 이 비디오를 통해 Audience Manager 보고서에 표시되는 내용을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31966/?quality=12&captions=kor)

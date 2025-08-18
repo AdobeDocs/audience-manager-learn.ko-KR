@@ -19,6 +19,6 @@ ht-degree: 0%
 
 이 비디오는 일치율 및 대응 가능 대상과 관련된 숫자를 표시하고 설명하는 [!UICONTROL Destination] 인터페이스를 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342853/?quality=12&captions=kor)
 
 자세한 내용은 제품 설명서의 [주소 지정 가능한 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=ko)을 참조하세요.

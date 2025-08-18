@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 비디오에서는 데이터 파일에 대한 파일 이름 요구 사항을 포함하여 오프라인 데이터를 Audience Manager에 온보딩할 때 취해야 할 단계에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346200/?quality=12&learn=on&captions=kor)
 
 인바운드 파일의 데이터 형식 지정에 대한 비디오를 보려면 [여기](formatting-and-ingesting-file-based-data.md)를 클릭하십시오.
 

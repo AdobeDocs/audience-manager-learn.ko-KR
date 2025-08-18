@@ -19,7 +19,7 @@ ht-degree: 0%
 
 이 비디오에서는 A/B 테스트 DSP 또는 기타 AAM 대상을 사용하여 광고 지출에 대한 최상의 수익을 창출하는 대상을 확인할 수 있도록 [!UICONTROL Audience Lab] 테스트를 만드는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30931/?quality=12&captions=kor)
 
 [!UICONTROL Audience Lab] 테스트를 만드는 것은 쉬우며 위의 비디오에 표시된 몇 분 안에 완료할 수 있습니다. 인터페이스의 단계를 따라 다음을 설정합니다.
 

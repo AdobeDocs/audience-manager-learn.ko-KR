@@ -28,7 +28,7 @@ Audience Manager 유사 [!UICONTROL Modeling]의 진정한 장점은 타사 및 
 
 또한 사용할 데이터 공급자를 조사하고 결정하는 데 도움이 되는 유용한 리소스는 [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/)입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30450/?quality=12&captions=kor)
 
 ## 이상적인 사용자(전환) 트레이트 또는 세그먼트 식별 또는 생성 {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ Audience Manager 유사 [!UICONTROL Modeling]의 진정한 장점은 타사 및 
 
 또한 Adobe Analytics 이벤트를 사용하여 트레이트를 만들 때 트레이트에 표시되어야 하는 사용자 수를 더 많이 수집하지 않도록 기억해야 하는 중요한 문제가 있습니다. 대규모 공개를 위해 다음 비디오를 시청하십시오. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30932/?quality=12&captions=kor)
 
 **참고:** 위 비디오에서 보이는 예제에서는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 그렇지 않을 수 있습니다. Google Analytics(GA)가 있는 경우 AAM으로 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=ko) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 여기에서 전환 트레이트를 만들 수 있습니다. 다른 분석 솔루션이 있는 경우(또는 분석 솔루션이 없는 경우) DIL 코드 및 `submit` 함수 등을 통해 AAM으로 데이터를 전송할 수 있습니다. ([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ko) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
 
@@ -46,7 +46,7 @@ Audience Manager 유사 [!UICONTROL Modeling]의 진정한 장점은 타사 및 
 
 위의 단계를 완료하고 나면 이제 알고리즘(유사) 모델을 만들 준비가 되었습니다. 모델을 설정하고 있을 때 전환 트레이트를 기본 트레이트(복제하려는 주요 방문자)로 사용하며, 활성화된 타사 데이터 스트림을 가져올 사용자 풀로 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/30449/?quality-12&captions=kor)
 
 ## 중요한 모범 사례 {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ Audience Manager에서 알고리즘 모델을 만들 때 모델이 가능한 한
 
 그런 다음 모델 결과를 사용할 수 있도록 [!UICONTROL Algorithmic Trait]을(를) 만들어야 합니다. 트레이트를 만들지 않으면 모델이 무용지물이 됩니다. 따라서 모델이 실행되면 트레이트 대화 상자로 이동하여 [!UICONTROL Algorithmic Trait]을(를) 만드십시오. 다음 비디오는 안내서와 몇 가지 팁을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30448/?quality=12&captions=kor)
 
 ## 모델 데이터에서 세그먼트를 생성하여 DSP로 보내기 {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

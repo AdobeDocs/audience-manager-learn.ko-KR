@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Export Labels]은(는) 개인 정보 요구 사항을 충족할 수 있도록 다양한 데이터 유형/소스의 흐름을 제어할 수 있는 메커니즘을 Audience Manager에 제공합니다. 이를 위해 동시에 작동하도록 [!UICONTROL Data Export Controls] 및 [!UICONTROL Data Export Labels]을(를) 설정하는 방법과 위치를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345097/?quality=12&learn=on&captions=kor)

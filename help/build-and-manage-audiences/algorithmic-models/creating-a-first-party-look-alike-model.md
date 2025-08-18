@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 비디오에서는 변환기처럼 보이는 더 많은 방문자를 찾을 수 있도록 자사 유사 모델을 만드는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30933/?quality=12&captions=kor)
 
 이에 대한 사용 사례는 다음과 같습니다.
 

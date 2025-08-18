@@ -21,6 +21,6 @@ ht-degree: 0%
 
 이 비디오에서는 [!UICONTROL Segments]개의 권장 사항인 [!UICONTROL Audience Marketplace]에서 업데이트된 트레이트 권장 사항을 사용하는 방법에 대해 알아봅니다. 이렇게 하면 세그먼트의 범위를 확장할 수 있는 타사 데이터에 추가 insight을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32754/?quality=12&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=ko)를 참조하세요.

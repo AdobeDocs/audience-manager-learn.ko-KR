@@ -22,4 +22,4 @@ ht-degree: 0%
 
 마케팅 캠페인, 특히 확장/대상 확장 캠페인을 만들 때 현재 고객을 제외하여 다른 방법으로 마케팅할 수 있습니다. 이 비디오에서는 세그먼트를 만들어 이미 고객 상태로 전환한 사용자를 제외하는 옵션에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41317/?quality=12&learn=on&captions=kor)

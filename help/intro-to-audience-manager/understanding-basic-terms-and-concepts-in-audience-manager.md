@@ -24,4 +24,4 @@ ht-degree: 85%
 
 이 비디오에서는 신호, 특성, 세그먼트 등 Audience Manager에서 시작할 수 있는 몇 가지 기본 용어와 개념을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37078/?quality=12&captions=kor)

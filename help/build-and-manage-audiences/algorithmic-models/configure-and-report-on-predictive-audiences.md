@@ -22,6 +22,6 @@ ht-degree: 0%
 
 이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36939/?quality=12&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=ko)를 참조하세요.

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 특성을 만들거나, 편집하거나, 삭제할 때 UI를 사용하여 하나씩 수행하면 효율적이지 않고 시간이 오래 걸릴 수 있습니다. 이 비디오에서는 간단한 Microsoft 스프레드시트를 REST API의 인터페이스로 사용하여 Audience Manager의 벌크 관리 도구인 BAAAM을 사용하여 트레이트를 일괄로 생성, 편집 및 삭제하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344715/?quality=12&learn=on&captions=kor)
 
 BAAAM 워크시트 다운로드를 비롯한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ko#reference)를 참조하십시오.
 

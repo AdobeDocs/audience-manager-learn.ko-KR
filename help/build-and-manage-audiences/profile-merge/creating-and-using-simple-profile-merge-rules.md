@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules] 및 이를 세그먼트에 할당하는 방법에 대해 알아봅니다. 기본 [!UICONTROL Current Device] 프로필과 사용 가능한 시기 및 사용해야 하는 시기에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40020/?quality=12&learn=on&captions=kor)
