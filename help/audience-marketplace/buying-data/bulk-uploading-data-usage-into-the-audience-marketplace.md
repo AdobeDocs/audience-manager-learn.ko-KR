@@ -25,6 +25,6 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 이 일괄 업로드 도구를 사용하여 데이터 사용량을 간단하게 보고하고 시간을 절약할 수 있을 뿐만 아니라 [!UICONTROL Audience Marketplace]에서 타사 또는 타사 데이터를 구매하는 고객은 향상된 비용 속성 정책을 활용할 수 있습니다. 이 새로운 정책은 규칙 기반 세그먼트의 고유한 사용자 트레이트 수에 따라 데이터 제공업체에 비용을 청구하므로 보다 투명하고 균등한 사용 청구가 발생합니다.
-청구 알고리즘에 대한 자세한 내용은 제품 설명서의 [CPM 데이터 피드에 대한 비용 속성](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)에서 확인할 수 있습니다.
+청구 알고리즘에 대한 자세한 내용은 제품 설명서의 [CPM 데이터 피드에 대한 비용 속성](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/marketplace_cpm_billing.html)에서 확인할 수 있습니다.
 
-CPM 사용 보고에 대한 자세한 내용은 제품 설명서에서 [CPM 사용 보고 방법](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)을 참조하세요.
+CPM 사용 보고에 대한 자세한 내용은 제품 설명서에서 [CPM 사용 보고 방법](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/t_marketplace_report_cpm_usage.html)을 참조하세요.

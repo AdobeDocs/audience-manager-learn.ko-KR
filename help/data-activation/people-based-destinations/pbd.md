@@ -33,4 +33,4 @@ ht-degree: 0%
 * [사용자 기반 대상 만들기 및 구성](create-and-configure-people-based-destinations.md)
 * [LinkedIn 사용자 기반 대상 이해 및 구성](understanding-and-configuring-the-linkedin-pbd.md)
 
-이러한 비디오는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)와 함께 사용할 수 있습니다.
+이러한 비디오는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko)와 함께 사용할 수 있습니다.

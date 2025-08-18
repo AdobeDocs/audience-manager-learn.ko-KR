@@ -24,4 +24,4 @@ Audience Optimization 보고서를 사용하여 캠페인을 개선하고 마케
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=ko#reporting)를 참조하세요.

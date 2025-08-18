@@ -20,7 +20,7 @@ Adobe은 옵트인 기능 및 Audience Manager 플러그인을 통해 IAB TCF 2.
 
 ## 첫 단계: Experience Cloud ID 옵트인 이해 {#first-step-understand-ecid-s-opt-in}
 
-IAB TCF 작업 방법을 이해하려면 먼저 ECID(Experience Cloud ID Service) 라이브러리의 일부인 [!DNL Opt-in] 기능을 이해해야 합니다. 옵트인 작동 방식을 잘 모를 경우 먼저 [이 유용한 문서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)를 참조하세요. 옵트인 [설명서](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html)도 검토해야 합니다. 해당 리소스를 모두 사용한 후에는 이 페이지로 돌아가 계속하십시오.
+IAB TCF 작업 방법을 이해하려면 먼저 ECID(Experience Cloud ID Service) 라이브러리의 일부인 [!DNL Opt-in] 기능을 이해해야 합니다. 옵트인 작동 방식을 잘 모를 경우 먼저 [이 유용한 문서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=ko)를 참조하세요. 옵트인 [설명서](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ko)도 검토해야 합니다. 해당 리소스를 모두 사용한 후에는 이 페이지로 돌아가 계속하십시오.
 
 ## IAB TCF를 위한 Audience Manager 플러그인 {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -69,7 +69,7 @@ IAB TCF를 사용하면 이점 중 하나는 위에 나열된 표준 목적이 �
 
 Audience Manager이 승인되려면(즉, 옵트인에 대한 IAB 목적을 번역하여 AAM에 &quot;예&quot; 투표를 제공하려면 위에 나열된 목적 1과 10은 최종 사용자의 동의를 받아야 합니다. 이 중 하나가 승인되지 않거나 공급업체가 승인되지 않은 경우 AAM은 픽셀 실행을 실행하거나 쿠키를 설정하지 않습니다. 또한 많은 고객이 최종 사용자에게 &quot;모두 또는 전혀 없음&quot; UI를 제공하도록 선택함으로써 Audience Manager(및 기타 Experience Cloud 솔루션)의 사용을 허용하거나 허용하지 않는다는 것을 아는 것도 좋습니다.
 
-IAB TCF 흐름용 Audience Manager 플러그인이 게시자와 광고주 사용 사례 모두에 적용되는 방식에 대한 유용한 정보가 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)에 있습니다.
+IAB TCF 흐름용 Audience Manager 플러그인이 게시자와 광고주 사용 사례 모두에 적용되는 방식에 대한 유용한 정보가 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ko)에 있습니다.
 
 ## IAB: 동의 다운스트림 전송 {#iab-sending-consent-downstream}
 
@@ -86,4 +86,4 @@ IAB TCF용 Audience Manager 플러그인을 사용하면, 글로벌 공급업체
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-구현 및 테스트, 사용 사례 및 워크플로 방법 등 IAB TCF 2.2용 Audience Manager 플러그인에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html)를 참조하십시오.
+구현 및 테스트, 사용 사례 및 워크플로 방법 등 IAB TCF 2.2용 Audience Manager 플러그인에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ko)를 참조하십시오.

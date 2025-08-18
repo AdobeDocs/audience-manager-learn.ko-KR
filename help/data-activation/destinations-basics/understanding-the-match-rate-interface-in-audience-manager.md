@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-자세한 내용은 제품 설명서의 [주소 지정 가능한 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html)을 참조하세요.
+자세한 내용은 제품 설명서의 [주소 지정 가능한 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=ko)을 참조하세요.

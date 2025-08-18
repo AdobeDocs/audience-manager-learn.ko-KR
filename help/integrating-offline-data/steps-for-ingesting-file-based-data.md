@@ -26,4 +26,4 @@ ht-degree: 0%
 
 인바운드 파일의 데이터 형식 지정에 대한 비디오를 보려면 [여기](formatting-and-ingesting-file-based-data.md)를 클릭하십시오.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=ko)를 참조하세요.

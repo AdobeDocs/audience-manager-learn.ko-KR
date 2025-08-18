@@ -32,4 +32,4 @@ ht-degree: 0%
 1. 테스트 요약을 확인하고 테스트를 활성화합니다
 1. 테스트가 완료되면 [!UICONTROL Audience Lab]의 기본 홈 화면에 있는 결과에 액세스하십시오.
 
-자세한 내용은 [기능 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)를 참조하세요.
+자세한 내용은 [기능 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=ko)를 참조하세요.

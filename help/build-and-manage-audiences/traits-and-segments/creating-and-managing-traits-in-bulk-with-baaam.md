@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-BAAAM 워크시트 다운로드를 비롯한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference)를 참조하십시오.
+BAAAM 워크시트 다운로드를 비롯한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ko#reference)를 참조하십시오.
 
 >[!IMPORTANT]
 >

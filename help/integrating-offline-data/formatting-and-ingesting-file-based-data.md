@@ -26,4 +26,4 @@ ht-degree: 0%
 
 파일 이름 지정 및 가져오기에 대한 비디오를 보려면 [여기](steps-for-ingesting-file-based-data.md)를 클릭하십시오.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=ko&)를 참조하세요.

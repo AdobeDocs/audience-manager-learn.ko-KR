@@ -26,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Explorer]&#x200B;(즉, [!UICONTROL Signals] 앱)을 클릭하면 상단 신호와 새 신호가 기본 대시보드로 표시됩니다. 이러한 두 가지 기본값 외에도 검색을 저장하고 대시보드에 추가하면 기능의 초기 페이지에서 가장 중요한 데이터를 바로 빠르게 볼 수 있습니다.
 
-[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)를 참조하세요.
+[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ko)를 참조하세요.

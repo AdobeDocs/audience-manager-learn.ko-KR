@@ -26,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations]은(는) 자사 데이터와 타사 데이터를 모두 작업하므로 추가 권장 [!UICONTROL Traits]을(를) 포함하고 대상 대상자를 늘릴 수 있습니다.
 
-이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)를 참조하세요.
+이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/trait-recommendations.html)를 참조하세요.

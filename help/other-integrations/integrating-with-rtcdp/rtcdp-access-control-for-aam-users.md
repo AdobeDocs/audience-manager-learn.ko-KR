@@ -26,5 +26,5 @@ Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 사�
 
 다음은 실시간 고객 데이터 플랫폼에 대해 학습하는 데 도움이 되는 기존 리소스입니다.
 
-* [액세스 제어 개요](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [권한 구성](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [액세스 제어 개요](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ko#access-control-hierarchy-and-workflow)
+* [권한 구성](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=ko)
