@@ -78,7 +78,7 @@ ht-degree: 1%
    1. [!DNL Apple]에 대한 [!DNL advertising ID] 정보를 [여기](https://developer.apple.com/documentation/adsupport/asidentifiermanager)에서 찾을 수 있습니다.
    1. [!DNL advertiser ID] 개발자를 위한 [!DNL Android] 설정에 대한 일부 정보는 [여기](http://android.cn-mirrors.com/google/play-services/id.html)에서 찾을 수 있습니다.
 1. SDK에서 [!DNL setAdvertisingIdentifier] 메서드를 사용하여 Experience Cloud으로 보냅니다.
-   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [과(와) ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)의 [!DNL iOS]설명서[!DNL Android]에 있습니다.
+   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [과(와) &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)의 [!DNL iOS]설명서[!DNL Android]에 있습니다.
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
