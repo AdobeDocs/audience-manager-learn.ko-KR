@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 비디오에서는 변환기처럼 보이는 더 많은 방문자를 찾을 수 있도록 자사 유사 모델을 만드는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30933/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
 이에 대한 사용 사례는 다음과 같습니다.
 

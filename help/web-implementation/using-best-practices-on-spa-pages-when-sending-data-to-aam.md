@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Platform 태그에서 규칙을 트리거하여 데이터를 Audience Manager으
 * 데이터 레이어는 Platform 태그 호출 전 페이지의 헤드에 있습니다.
 * 시뮬레이션된 SPA 링크의 JavaScript이 [!UICONTROL Data Layer]을(를) 변경한 다음 플랫폼 태그(`_satellite.track()` 호출)를 호출합니다. 이 [!UICONTROL Direct Call Rule] 대신 JavaScript 사용자 지정 이벤트를 사용하는 경우 단원은 동일합니다. 먼저 [!DNL data layer]을(를) 변경한 다음 Platform 태그를 호출합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34821/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 추가 리소스 {#additional-resources}
 

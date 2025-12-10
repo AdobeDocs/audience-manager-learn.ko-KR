@@ -7,10 +7,10 @@ activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

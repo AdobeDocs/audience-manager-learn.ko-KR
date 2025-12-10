@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 29076.jpg
 kt: 3342
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 새로운 교차 장치 옵션을 사용하는 시점을 포함하여 사람 기반 대상에 사용할 [!UICONTROL Profile Merge Rule]을(를) 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31703/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

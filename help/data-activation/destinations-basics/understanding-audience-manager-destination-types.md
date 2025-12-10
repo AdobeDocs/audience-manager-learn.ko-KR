@@ -5,10 +5,10 @@ feature: Destination Basics
 doc-type: presentation
 thumbnail: 29839.jpg
 kt: 4016
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-[Audience Manager 장치 기반 대상 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=ko)에서 사용 가능한 서버 간 대상 파트너 목록을 볼 수 있습니다.
+[Audience Manager 장치 기반 대상 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)에서 사용 가능한 서버 간 대상 파트너 목록을 볼 수 있습니다.
 
-대상에 대한 자세한 내용은 제품 설명서에서 [대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ko)을 참조하세요.
+대상에 대한 자세한 내용은 제품 설명서에서 [대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)을 참조하세요.

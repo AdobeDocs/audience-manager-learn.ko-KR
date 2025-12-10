@@ -7,10 +7,10 @@ activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: Developer, Data Engineer, Architect
+role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 1%
@@ -78,7 +78,7 @@ ht-degree: 1%
    1. [!DNL Apple]에 대한 [!DNL advertising ID] 정보를 [여기](https://developer.apple.com/documentation/adsupport/asidentifiermanager)에서 찾을 수 있습니다.
    1. [!DNL advertiser ID] 개발자를 위한 [!DNL Android] 설정에 대한 일부 정보는 [여기](http://android.cn-mirrors.com/google/play-services/id.html)에서 찾을 수 있습니다.
 1. SDK에서 [!DNL setAdvertisingIdentifier] 메서드를 사용하여 Experience Cloud으로 보냅니다.
-   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [과(와) &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)의 [!DNL iOS]설명서[!DNL Android]에 있습니다.
+   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [과(와) ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)의 [!DNL iOS]설명서[!DNL Android]에 있습니다.
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
@@ -89,13 +89,13 @@ ht-degree: 1%
 
 ![오류 이미지](assets/image_4_.png)
 
-오류 코드 목록은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=ko#api-and-sdk-code)를 참조하세요.
+오류 코드 목록은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)를 참조하세요.
 
 ## 온보딩 글로벌 장치 ID {#onboarding-global-device-ids}
 
-전역 장치 ID를 실시간으로 제출하는 것 외에도 ID에 대해 &quot;[!DNL onboard]&quot;(업로드) 데이터를 사용할 수 있습니다. 이 프로세스는 고객 ID(일반적으로 키/값 쌍을 통해)에 대해 데이터를 온보딩할 때와 동일하지만 데이터가 글로벌 장치 ID에 할당되도록 적절한 데이터 Source ID를 사용하기만 하면 됩니다. 온보딩 프로세스에 대한 설명서는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=ko#implementation-integration-guides)에서 찾을 수 있습니다. 사용 중인 플랫폼에 따라 글로벌 데이터 소스 ID를 사용해야 합니다.
+전역 장치 ID를 실시간으로 제출하는 것 외에도 ID에 대해 &quot;[!DNL onboard]&quot;(업로드) 데이터를 사용할 수 있습니다. 이 프로세스는 고객 ID(일반적으로 키/값 쌍을 통해)에 대해 데이터를 온보딩할 때와 동일하지만 데이터가 글로벌 장치 ID에 할당되도록 적절한 데이터 Source ID를 사용하기만 하면 됩니다. 온보딩 프로세스에 대한 설명서는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)에서 찾을 수 있습니다. 사용 중인 플랫폼에 따라 글로벌 데이터 소스 ID를 사용해야 합니다.
 
-온보딩 프로세스를 통해 잘못된 전역 장치 ID가 제출되면 [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=ko#reporting)에 오류가 표시됩니다.
+온보딩 프로세스를 통해 잘못된 전역 장치 ID가 제출되면 [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)에 오류가 표시됩니다.
 
 다음은 해당 보고서를 통해 발생할 수 있는 오류 샘플입니다.
 

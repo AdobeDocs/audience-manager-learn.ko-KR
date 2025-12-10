@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rule] 개선 사항의 릴리스를 가장 잘 준비하는 방법에 대한 개요입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31968/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
