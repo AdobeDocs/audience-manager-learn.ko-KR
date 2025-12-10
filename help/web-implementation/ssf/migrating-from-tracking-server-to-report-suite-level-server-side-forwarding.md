@@ -40,7 +40,7 @@ Adobe Audience Manager 및 Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 ## [!UICONTROL Report-suite] 수준 서버측 전달 {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL report suite] 전달에서 [!UICONTROL tracking server] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL tracking server] 전달이 아닌 [!UICONTROL report suite] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
+[!UICONTROL report suite] 전달에서 [!UICONTROL tracking server] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL tracking server] 전달이 아닌 [!UICONTROL report suite] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

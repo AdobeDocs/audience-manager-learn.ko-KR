@@ -40,7 +40,7 @@ Audience Manager 유사 [!UICONTROL Modeling]의 진정한 장점은 타사 및 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**참고:** 위 비디오에서 보이는 예제에서는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 그렇지 않을 수 있습니다. Google Analytics(GA)가 있는 경우 AAM으로 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 여기에서 전환 트레이트를 만들 수 있습니다. 다른 분석 솔루션이 있는 경우(또는 분석 솔루션이 없는 경우) DIL 코드 및 `submit` 함수 등을 통해 AAM으로 데이터를 전송할 수 있습니다. ([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
+**참고:** 위 비디오에서 보이는 예제에서는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 그렇지 않을 수 있습니다. Google Analytics(GA)가 있는 경우 AAM으로 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=ko) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 여기에서 전환 트레이트를 만들 수 있습니다. 다른 분석 솔루션이 있는 경우(또는 분석 솔루션이 없는 경우) DIL 코드 및 `submit` 함수 등을 통해 AAM으로 데이터를 전송할 수 있습니다. ([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ko) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
 
 ## 타사 또는 타사 데이터에서 유사 모델 생성 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

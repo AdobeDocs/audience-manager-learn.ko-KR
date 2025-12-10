@@ -26,4 +26,4 @@ Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터
 
 많은 경우 실제로 데이터를 온보딩하기 전에 온보딩된 데이터에 대한 트레이트를 만듭니다. 하지만 그 과정에서 새로운 키와 값이 추가될 수 있으며, 이러한 훌륭한 데이터를 활용하기 위해 필요한 모든 트레이트를 더 이상 생성하지 않을 수 있습니다. [!UICONTROL Data Explorer]을(를) 사용하면 빠른 검색을 통해 온보딩된 모든 데이터를 확인하고 특정 [!UICONTROL Data Source]을(를) 기준으로 필터링하거나 키 및/또는 값으로 필터링할 수 있습니다. 이 검색을 통해 데이터의 유효성을 효율적으로 검사할 수 있습니다.
 
-[!DNL Data Explorer]에 대한 자세한 내용을 보려면 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)을(를) 방문하세요.
+[!DNL Data Explorer]에 대한 자세한 내용을 보려면 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ko](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/data-explorer.html)을(를) 방문하세요.

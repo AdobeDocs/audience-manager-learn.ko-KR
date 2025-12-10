@@ -28,4 +28,4 @@ Audience Manager으로 들어오는 데이터의 주요 소스 중 하나가 분
 
 [!UICONTROL Data Explorer]은(는) 다양한 보고서 세트에서 들어오는 내용을 볼 수 있도록 준비되었으며, 트레이트에 아직 사용되지 않는 [!DNL Analytics]개의 신호를 발견하면 [!DNL Trait Builder]&#x200B;(으)로 바로 클릭하여 트레이트를 만들어 세분화에서 이 강력한 동작 데이터를 활용할 수 있습니다.
 
-[!DNL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)를 참조하세요.
+[!DNL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ko)를 참조하세요.

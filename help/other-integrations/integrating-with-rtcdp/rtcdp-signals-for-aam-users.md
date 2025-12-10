@@ -26,5 +26,5 @@ ht-degree: 1%
 
 다음은 실시간 고객 데이터 플랫폼에 대해 학습하는 데 도움이 되는 기존 비디오 및 리소스입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [Audience Manager 사용자를 위한 실시간 CDP의 특성 이해](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [Audience Manager 사용자를 위한 실시간 CDP의 세그먼트 이해](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [Audience Manager 사용자를 위한 실시간 CDP의 특성 이해](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=ko#other-integrations)
+* [Audience Manager 사용자를 위한 실시간 CDP의 세그먼트 이해](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ko#other-integrations)

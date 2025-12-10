@@ -32,4 +32,4 @@ ht-degree: 0%
 * [대상 ID 보고 해석](interpret-audience-identity-reporting.md)
 * [Audience Manager의 교차 장치 지표 이해](understanding-cross-device-metrics-in-audience-manager.md)
 
-이러한 비디오는 [프로필 병합 규칙 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)와 함께 사용할 수 있습니다
+이러한 비디오는 [프로필 병합 규칙 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=ko)와 함께 사용할 수 있습니다

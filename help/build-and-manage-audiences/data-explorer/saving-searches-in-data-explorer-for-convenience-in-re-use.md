@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)를 참조하세요.
+[!UICONTROL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/data-explorer.html)를 참조하세요.

@@ -89,13 +89,13 @@ ht-degree: 1%
 
 ![오류 이미지](assets/image_4_.png)
 
-오류 코드 목록은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)를 참조하세요.
+오류 코드 목록은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=ko#api-and-sdk-code)를 참조하세요.
 
 ## 온보딩 글로벌 장치 ID {#onboarding-global-device-ids}
 
-전역 장치 ID를 실시간으로 제출하는 것 외에도 ID에 대해 &quot;[!DNL onboard]&quot;(업로드) 데이터를 사용할 수 있습니다. 이 프로세스는 고객 ID(일반적으로 키/값 쌍을 통해)에 대해 데이터를 온보딩할 때와 동일하지만 데이터가 글로벌 장치 ID에 할당되도록 적절한 데이터 Source ID를 사용하기만 하면 됩니다. 온보딩 프로세스에 대한 설명서는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)에서 찾을 수 있습니다. 사용 중인 플랫폼에 따라 글로벌 데이터 소스 ID를 사용해야 합니다.
+전역 장치 ID를 실시간으로 제출하는 것 외에도 ID에 대해 &quot;[!DNL onboard]&quot;(업로드) 데이터를 사용할 수 있습니다. 이 프로세스는 고객 ID(일반적으로 키/값 쌍을 통해)에 대해 데이터를 온보딩할 때와 동일하지만 데이터가 글로벌 장치 ID에 할당되도록 적절한 데이터 Source ID를 사용하기만 하면 됩니다. 온보딩 프로세스에 대한 설명서는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=ko#implementation-integration-guides)에서 찾을 수 있습니다. 사용 중인 플랫폼에 따라 글로벌 데이터 소스 ID를 사용해야 합니다.
 
-온보딩 프로세스를 통해 잘못된 전역 장치 ID가 제출되면 [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)에 오류가 표시됩니다.
+온보딩 프로세스를 통해 잘못된 전역 장치 ID가 제출되면 [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=ko#reporting)에 오류가 표시됩니다.
 
 다음은 해당 보고서를 통해 발생할 수 있는 오류 샘플입니다.
 

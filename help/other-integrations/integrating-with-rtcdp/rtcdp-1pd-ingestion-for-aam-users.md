@@ -27,9 +27,9 @@ ht-degree: 0%
 
 다음은 실시간 고객 데이터 플랫폼에 대해 학습하는 데 도움이 되는 몇 가지 기존 비디오 및 튜토리얼입니다. Platform에 대해 자세히 알아보려면 언제든지 이러한 비디오와 튜토리얼을 살펴보십시오.
 
-* [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [스트리밍 데이터 수집 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
-* [일괄 데이터 수집 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
-* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [데이터 세트 만들기](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ko#sources)
+* [스트리밍 데이터 수집 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ko#data-ingestion)
+* [일괄 데이터 수집 개요](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=ko#data-ingestion)
+* [스키마 편집기를 사용하여 스키마를 만듭니다](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ko#getting-started)
+* [데이터 세트 만들기](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=ko#permissions-required)
+* [세그먼트 만들기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ko#segments)
