@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오는 사용자 기반 대상에 대한 개요를 제공하며 프로세스를 통과하는 데이터 흐름을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31969/?captions=kor&quality=12)

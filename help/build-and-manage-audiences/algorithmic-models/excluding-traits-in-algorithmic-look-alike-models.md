@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 비디오에서는 알고리즘(유사) 모델에서 특정(또는 그룹) 트레이트를 제외하는 방법과 그 이유를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34823/?captions=kor&quality=12)
 
 이 기능의 사용 사례는 다음과 같습니다.
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Manager의 트레이트에서 Adobe Analytics 데이터를 사용할 계획을 세울 때 도움이 되는 팁과 요령을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330127/?captions=kor&quality=12&learn=on)

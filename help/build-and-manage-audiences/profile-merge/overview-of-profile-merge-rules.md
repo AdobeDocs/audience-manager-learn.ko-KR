@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules]이(가) 무엇인지, 작동 방식과 마케팅 담당자에 대한 값을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31964/?captions=kor&quality=12)

@@ -31,7 +31,7 @@ ht-degree: 0%
 
 이러한 빠른 참조로 빠르게 찾을 수 없는 경우 이 비디오는 짧은 시간 약속입니다. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40893/?captions=kor&quality=12)
 
 >[!IMPORTANT]
 >

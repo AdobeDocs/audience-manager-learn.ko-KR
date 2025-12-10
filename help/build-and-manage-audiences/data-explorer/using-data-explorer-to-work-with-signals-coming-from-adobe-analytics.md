@@ -22,7 +22,7 @@ ht-degree: 0%
 
 이 비디오는 사용된 [!UICONTROL Data Explorer]과(와) 사용되지 않은  검색, [!UICONTROL signals]개 트레이트 만들기, 데이터 이해 등 [!DNL Analytics]에서 작업하여 Adobe Analytics 데이터를 검색하고 사용하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30937/?captions=kor&quality=12)
 
 Audience Manager으로 들어오는 데이터의 주요 소스 중 하나가 분석 솔루션일 수 있으며, 물론 Adobe Analytics이 되길 바랍니다.
 

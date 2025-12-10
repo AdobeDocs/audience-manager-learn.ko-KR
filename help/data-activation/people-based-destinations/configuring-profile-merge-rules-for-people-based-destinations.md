@@ -22,4 +22,4 @@ ht-degree: 0%
 
 이 비디오에서는 새로운 교차 장치 옵션을 사용하는 시점을 포함하여 사람 기반 대상에 사용할 [!UICONTROL Profile Merge Rule]을(를) 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31703/?captions=kor&quality=12)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rule] 개선 사항의 릴리스를 가장 잘 준비하는 방법에 대한 개요입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31968/?captions=kor&quality=12)

@@ -22,6 +22,6 @@ ht-degree: 0%
 
 이 비디오에서는 디스플레이 및 다운로드 옵션을 포함하여 [!UICONTROL Activity Usage Report]을(를) 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33278/?captions=kor&quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=ko)를 참조하세요.
