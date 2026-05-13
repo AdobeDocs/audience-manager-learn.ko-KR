@@ -5,13 +5,17 @@ feature: BAAAM
 doc-type: feature video
 thumbnail: 327692.jpg
 kt: 6050
-last-substantial-update: 2025-04-18T00:00:00Z
+last-substantial-update: 2025-04-18T00:00:00.000Z
 role: User
 level: Beginner
 exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
-source-git-commit: b85100e7ad39468ba6bea2da77068ed37685c84d
+TQID: https://experienceleague.adobe.com/pAAXwxOdcs5v-zYGvzFfgyqIrSLU1L15iJ7ooOha0vw
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 112
 ht-degree: 0%
 
 ---
@@ -20,7 +24,7 @@ ht-degree: 0%
 
 일반적으로 &quot;BAAAM&quot;이라고 하는 Audience Manager [!UICONTROL Bulk Management] 도구에 대해 알아봅니다. BAAAM 시트를 사용하여 REST API를 통해 트레이트 및 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 인증하는 방법을 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340487/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >

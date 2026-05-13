@@ -11,9 +11,13 @@ kt: 6802
 role: User
 level: Experienced
 exl-id: 15a01564-fa14-4ab4-944d-af1c9041d788
-source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
+TQID: https://experienceleague.adobe.com/8mNfa3a6-ryXKcjY8XKf3yG-3-MdKEsCpReir6TyiMs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 76
 ht-degree: 0%
 
 ---
@@ -22,4 +26,4 @@ ht-degree: 0%
 
 이 비디오에서는 Audience Marketplace에서 데이터를 비공개 또는 공개 데이터 피드로 설정하여 제2자 데이터 또는 서드파티 데이터의 데이터 공급자로 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410863/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

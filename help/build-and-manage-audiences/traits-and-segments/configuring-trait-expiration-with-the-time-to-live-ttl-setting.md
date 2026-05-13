@@ -11,9 +11,13 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/Ir719-wVlbBpEHCKGeMvJ3g5bVPaohDpu6eNCY32ro4
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: 89
 ht-degree: 0%
 
 ---
@@ -22,4 +26,4 @@ ht-degree: 0%
 
 특성을 만들 때 설정하는 설정 중 하나는 [!UICONTROL Time to Live]&#x200B;(TTL) 설정이며, 이 설정은 지정한 기간 내에 자격을 다시 부여하지 않는 경우 특성의 멤버십 만료입니다. 이 비디오는 이 기능을 보고 설정하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341339/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

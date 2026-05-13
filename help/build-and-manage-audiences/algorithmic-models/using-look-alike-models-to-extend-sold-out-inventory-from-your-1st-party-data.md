@@ -11,9 +11,13 @@ kt: 1688
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/xFz82Q0MZ-ZyErTuOZPm66xUSe3uLbAGJ3xMiUBun8A
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: 891
 ht-degree: 0%
 
 ---
@@ -42,9 +46,9 @@ ht-degree: 0%
 
 또한, 이벤트를 사용하여 트레이트를 만들 때 트레이트에 들어가야 하는 사용자 수를 초과하여 모으지 않도록 주의해야 하는 중요한 문제가 있습니다. 대규모 공개를 위해 다음 비디오를 시청하십시오. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/30932/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**참고:** 위 비디오에서 보이는 예제에서는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 그렇지 않을 수 있습니다. Google Analytics(GA)가 있는 경우 AAM으로 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ko) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 여기에서 전환 트레이트를 만들 수 있습니다. 다른 분석 솔루션이 있는 경우(또는 분석 솔루션이 없는 경우) DIL 코드 및 `submit` 함수 등을 통해 AAM으로 데이터를 전송할 수 있습니다. ([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=ko) 참조). 그런 다음 다시 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
+**참고:** 위 비디오에서 보이는 예제에서는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 그렇지 않을 수 있습니다. Google Analytics(GA)가 있는 경우 AAM으로 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 여기에서 전환 트레이트를 만들 수 있습니다. 다른 분석 솔루션이 있는 경우(또는 분석 솔루션이 없는 경우) DIL 코드 및 `submit` 함수 등을 통해 AAM으로 데이터를 보낼 수 있습니다([설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html) 참조). 그런 다음 다시 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
 
 ## 자사 데이터에서 유사 모델 만들기 {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,13 +56,13 @@ ht-degree: 0%
 
 이 사용 사례에서는 사이트 내에 전환자와 비슷하게 보이지만 아직 전환되지 않은 사용자 세그먼트를 만들어 관심 있는 광고주에게 유사 세그먼트를 판매할 수 있도록 하는 것이 중요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30933/?captions=kor&quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## 알고리즘 트레이트 만들기 {#creating-an-algorithmic-trait}
 
 그런 다음 모델 결과를 사용할 수 있도록 [!UICONTROL Algorithmic Trait]을(를) 만들어야 합니다. 트레이트를 만들지 않으면 모델이 무용지물이 됩니다. 따라서 모델이 실행되면 트레이트 대화 상자로 이동하여 [!UICONTROL Algorithmic Trait]을(를) 만드십시오. 다음 비디오는 안내서와 몇 가지 팁을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30451/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## 광고주에게 [!UICONTROL Algorithmic Segment] 제공 {#offering-the-algorithmic-segment-to-advertisers}
 

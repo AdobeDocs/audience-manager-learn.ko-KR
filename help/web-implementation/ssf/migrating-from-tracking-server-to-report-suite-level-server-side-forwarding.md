@@ -11,16 +11,22 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: 608
 ht-degree: 0%
 
 ---
 
 # 추적 서버에서 보고서 세트 수준의 서버측 전달로 마이그레이션 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-이 문서와 비디오에서는 [!DNL Analytics] 수준이 아닌 [!UICONTROL report suite] 수준에서 Audience Manager에 [!UICONTROL tracking server] 데이터의 서버측 전달을 활성화하는 방법을 보여 줍니다.
+이 문서와 비디오에서는 [!UICONTROL tracking server] 수준이 아닌 [!UICONTROL report suite] 수준에서 Audience Manager에 [!DNL Analytics] 데이터의 서버측 전달을 활성화하는 방법을 보여 줍니다.
 
 ## 소개 {#introduction}
 
@@ -40,7 +46,7 @@ Adobe Audience Manager 및 Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 ## [!UICONTROL Report-suite] 수준 서버측 전달 {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL report suite] 전달에서 [!UICONTROL tracking server] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL tracking server] 전달이 아닌 [!UICONTROL report suite] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
+[!UICONTROL tracking server] 전달에서 [!UICONTROL report suite] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL report suite] 전달이 아닌 [!UICONTROL tracking server] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
@@ -48,4 +54,4 @@ Adobe Audience Manager 및 Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 위의 비디오에 설명된 대로 Audience Manager에 전달할 모든 [!UICONTROL report suites]을(를) 전달했으면 Adobe 고객 지원 센터 또는 Adobe Consulting에 연락하여 [!UICONTROL tracking server] 전달을 비활성화하도록 해야 합니다. [!UICONTROL tracking server] 전달과 [!UICONTROL report suite] 전달을 모두 가지면 히트가 중복되지 않으므로 이 작업을 수행하는 것은 긴급하지 않습니다. 그러나 [!UICONTROL report suite] 전달만 사용하는 것이 좋습니다.
 
-[!UICONTROL tracking server] 전달을 켜두면 전달하지 않으려는 [!UICONTROL report suites]의 데이터를 전달할 수 있을 뿐만 아니라, 나중에 사용자(및 회사의 모든 사용자)가 [!UICONTROL tracking server] 전달이 켜져 있다는 것을 잊어버린 후 특정 [!UICONTROL report suite]에 대해 데이터가 전달되지 않는다고 생각할 수 있습니다. 이는 보고서 세트 수준에서 설정되어 있지 않지만 [!UICONTROL tracking server] 때문에 데이터가 계속 전달되기 때문입니다. 그러면 전달 이유를 찾고 예상하지 못한 AAM 서버 호출에 대한 비용을 지불하는 데 시간과 비용이 낭비됩니다. 따라서 비즈니스 요구 사항에 맞게 모든 [!UICONTROL tracking server]을(를) 전달하도록 설정하는 즉시 [!UICONTROL report suites] 전달을 비활성화하는 것이 좋습니다.
+[!UICONTROL tracking server] 전달을 켜두면 전달하지 않으려는 [!UICONTROL report suites]의 데이터를 전달할 수 있을 뿐만 아니라, 나중에 사용자(및 회사의 모든 사용자)가 [!UICONTROL tracking server] 전달이 켜져 있다는 것을 잊어버린 후 특정 [!UICONTROL report suite]에 대해 데이터가 전달되지 않는다고 생각할 수 있습니다. 이는 보고서 세트 수준에서 설정되어 있지 않지만 [!UICONTROL tracking server] 때문에 데이터가 계속 전달되기 때문입니다. 그러면 전달 이유를 찾고 예상하지 못한 AAM 서버 호출에 대한 비용을 지불하는 데 시간과 비용이 낭비됩니다. 따라서 비즈니스 요구 사항에 맞게 모든 [!UICONTROL report suites]을(를) 전달하도록 설정하는 즉시 [!UICONTROL tracking server] 전달을 비활성화하는 것이 좋습니다.

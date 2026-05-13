@@ -11,9 +11,16 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: d3cdead0-685a-4489-9250-4bb709942f66id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: 2419
 ht-degree: 0%
 
 ---
@@ -61,8 +68,8 @@ AAM 구현의 서버측 전달 방법으로 이동하는 것이 좋습니다.
 클라이언트측에서 서버측 전달로 이동할 때 수행할 작업 중 하나는 코드를 새로운 서버측 전달 코드로 변경하는 것입니다. 이 작업은 다음 옵션 중 하나를 사용하여 수행됩니다.
 
 * Adobe Experience Platform 태그 - 웹 속성에 대해 Adobe이 권장하는 구현 옵션입니다. Platform 태그가 모든 힘든 작업을 수행했으므로 이 작업은 쉬운 작업이라는 것을 알 수 있습니다.
-* 아직 Adobe Launch를 사용하지 않는 경우 페이지에서 새 SSF 코드를 `doPlugins` 파일의 `appMeasurement.js` 함수에 직접 배치할 수도 있습니다
-* 다른 태그 관리자 - 다른 태그 관리자가 `doPlugins` 코드를 저장하는 곳마다 SSF 코드를 [!DNL AppMeasurement]에 넣기 때문에 이러한 태그 관리자는 페이지의 이전 옵션처럼 처리할 수 있습니다.
+* 아직 Adobe Launch를 사용하지 않는 경우 페이지에서 새 SSF 코드를 `appMeasurement.js` 파일의 `doPlugins` 함수에 직접 배치할 수도 있습니다
+* 다른 태그 관리자 - 다른 태그 관리자가 [!DNL AppMeasurement] 코드를 저장하는 곳마다 SSF 코드를 `doPlugins`에 넣기 때문에 이러한 태그 관리자는 페이지의 이전 옵션처럼 처리할 수 있습니다.
 
 아래에서는 _코드 업데이트_ 섹션에서 각 코드를 살펴보겠습니다.
 
@@ -74,7 +81,7 @@ AAM 구현의 서버측 전달 방법으로 이동하는 것이 좋습니다.
 
 서버측 전달로 이동하기 위한 주요 전제 조건은 Experience Cloud ID 서비스를 구현하는 것입니다. 이 작업은 Experience Platform Launch를 사용하는 경우 가장 쉽게 수행됩니다. 이 경우 ECID 확장을 설치하면 나머지는 수행됩니다.
 
-Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
+Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
 
 >[!NOTE]
 >
@@ -138,7 +145,7 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 #### ECID가 아직 구현되지 않은 경우 {#if-you-do-not-have-ecid-yet-implemented}
 
-1. 서버측 전달을 위해 사용할 각 [!DNL Analytics]에 대해 [!UICONTROL report suite]에서 스위치를 전환합니다.
+1. 서버측 전달을 위해 사용할 각 [!UICONTROL report suite]에 대해 [!DNL Analytics]에서 스위치를 전환합니다.
 
    1. ECID가 없으므로 전달이 아직 시작되지 않습니다.
 
@@ -197,9 +204,9 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 >
 >잘못된 &quot;Success&quot;를 확인합니다. 응답이 있고 모든 것이 작동하는 것처럼 보이는 경우 응답에 `stuff` 개체가 있는지 확인하십시오. 그렇지 않으면 `"status":"SUCCESS"`이(가) 포함된 메시지가 표시될 수 있습니다. 이상하게 들리겠지만, 이것은 실제로는 제대로 작동하지 않는다는 증거입니다.
 >
->이 메시지가 표시되면 Platform 태그 또는 [!DNL AppMeasurement]에서 코드 업데이트를 완료했지만 [!DNL Analytics] [!DNL Admin Console]에서 전달이 아직 완료되지 않았음을 의미합니다. 이 경우 [!DNL Analytics]에 대해 [!DNL Admin Console] [!UICONTROL report suite]에서 서버측 전달을 활성화했는지 확인해야 합니다. 백엔드에서 필요한 모든 사항을 변경하는 데 시간이 오래 걸릴 수 있으므로 4시간이 지나지 않은 경우 기다려 주십시오.
+>이 메시지가 표시되면 Platform 태그 또는 [!DNL AppMeasurement]에서 코드 업데이트를 완료했지만 [!DNL Analytics] [!DNL Admin Console]에서 전달이 아직 완료되지 않았음을 의미합니다. 이 경우 [!UICONTROL report suite]에 대해 [!DNL Analytics] [!DNL Admin Console]에서 서버측 전달을 활성화했는지 확인해야 합니다. 백엔드에서 필요한 모든 사항을 변경하는 데 시간이 오래 걸릴 수 있으므로 4시간이 지나지 않은 경우 기다려 주십시오.
 
 
 ![거짓 성공](assets/falsesuccess.png)
 
-서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ko)를 참조하세요.
+서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)를 참조하세요.

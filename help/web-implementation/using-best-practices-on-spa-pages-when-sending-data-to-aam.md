@@ -11,9 +11,15 @@ topic: SPA
 role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: 593
 ht-degree: 0%
 
 ---
@@ -56,11 +62,11 @@ Platform 태그에서 규칙을 트리거하여 데이터를 Audience Manager으
 * 데이터 레이어는 Platform 태그 호출 전 페이지의 헤드에 있습니다.
 * 시뮬레이션된 SPA 링크의 JavaScript이 [!UICONTROL Data Layer]을(를) 변경한 다음 플랫폼 태그(`_satellite.track()` 호출)를 호출합니다. 이 [!UICONTROL Direct Call Rule] 대신 JavaScript 사용자 지정 이벤트를 사용하는 경우 단원은 동일합니다. 먼저 [!DNL data layer]을(를) 변경한 다음 Platform 태그를 호출합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34821/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 추가 리소스 {#additional-resources}
 
-* [Adobe 포럼의 SPA 토론](https://forums.adobe.com/thread/2451022)
-* [플랫폼 태그에서 SPA를 구현하는 방법을 보여 주는 참조 아키텍처 사이트](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Adobe 포럼에서의 SPA 토론](https://forums.adobe.com/thread/2451022)
+* [Platform 태그에서 SPA를 구현하는 방법을 보여주는 참조 아키텍처 사이트](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
 * [Adobe Analytics에서 SPA를 추적할 때 모범 사례 사용](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [이 문서에 사용되는 데모 사이트](https://aam.enablementadobe.com/SPA-Launch.html)
+* [이 문서에 사용된 데모 사이트](https://aam.enablementadobe.com/SPA-Launch.html)

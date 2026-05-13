@@ -11,9 +11,14 @@ kt: 1762
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/NcSOMhF2aQme5nGjE-aexmESbEgg4A-RTK5Z2az8-PY
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 172
 ht-degree: 0%
 
 ---
@@ -22,8 +27,8 @@ ht-degree: 0%
 
 이 비디오는 데이터를 생성하기 전에 트레이트에 다시 채우는 트레이트와 같은 소급 트레이트를 생성하는 방법을 보여 줍니다. 이는 트레이트 생성에 있어 훌륭한 돌파구가 됩니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/30934/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
 지금까지는 트레이트를 만들 때 계속 진행할 때만 데이터를 수집했습니다. 이것은 트래픽이나 데이터를 받을 경우에 대비해 많은 트레이트를 만들어야 한다는 의미였습니다. 이제 어떤 키/값 쌍이 데이터를 수신하는지 확인한 다음 트레이트를 만들고 해당 트레이트에 데이터를 채울 때까지 확인할 수 있습니다. 이렇게 하면 시간과 에너지를 절약할 수 있으며 데이터가 없는 트레이트가 여러 개 있는 대신 트레이트 분류법을 철저히 준수하는 데 도움이 됩니다.
 
-[!DNL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/data-explorer.html)를 참조하세요.
+[!DNL Data Explorer]에 대한 자세한 내용은 [Data Explorer - 개요, 혜택 및 사용 사례](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)를 참조하세요.

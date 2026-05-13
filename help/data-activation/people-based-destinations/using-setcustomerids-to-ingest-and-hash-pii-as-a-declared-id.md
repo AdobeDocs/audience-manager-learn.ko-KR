@@ -11,9 +11,14 @@ kt: 3689
 role: Developer
 level: Beginner
 exl-id: 9cc3e0f6-cf68-4048-a34c-513b77777aa2
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/mWm-HnUmFZjkKpy95MBerhtJFuYX8saAw43nfA7X3cY
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 133
 ht-degree: 0%
 
 ---
@@ -22,6 +27,6 @@ ht-degree: 0%
 
 이 비디오에서는 Experience Cloud ID 서비스 `setCustomerIDs()` 메서드를 사용하여 전자 메일 주소를 수집 및 해시하고 이를 선언된 ID로 사용하는 이유와 방법에 대해 알아봅니다. 이렇게 하면 CRM ID와 이메일 주소를 함께 연결할 뿐만 아니라 익명 장치 ID와 같은 Adobe Audience Manager UUID에 동기화됩니다. 그런 다음 이러한 해시된 이메일 주소를 사람 기반 대상으로 전송할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30102/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=ko)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html)를 참조하세요.

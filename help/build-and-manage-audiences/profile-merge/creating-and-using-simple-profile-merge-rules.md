@@ -11,9 +11,13 @@ kt: 5356
 role: User
 level: Beginner
 exl-id: de4910a5-9e89-4b38-9cf3-34c5fe658632
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/1ZxxflP6KEkulJWrGOgiz1j44shItaZqjwXNVcFCnxU
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: 59
 ht-degree: 0%
 
 ---
@@ -22,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules] 및 이를 세그먼트에 할당하는 방법에 대해 알아봅니다. 기본 [!UICONTROL Current Device] 프로필과 사용 가능한 시기 및 사용해야 하는 시기에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40020/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

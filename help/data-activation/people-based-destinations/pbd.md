@@ -10,9 +10,14 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 216
 ht-degree: 0%
 
 ---
@@ -33,4 +38,4 @@ ht-degree: 0%
 * [사용자 기반 대상 만들기 및 구성](create-and-configure-people-based-destinations.md)
 * [LinkedIn 사용자 기반 대상 이해 및 구성](understanding-and-configuring-the-linkedin-pbd.md)
 
-이러한 비디오는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko)와 함께 사용할 수 있습니다.
+이러한 비디오는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)와 함께 사용할 수 있습니다.

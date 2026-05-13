@@ -10,9 +10,16 @@ kt: 2359
 role: Developer
 level: Intermediate
 exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/ZObq0VjU8IEiaQSL4emTTRXdTgBvjiDfzztHFc7rO-g
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: 316
 ht-degree: 0%
 
 ---
@@ -25,13 +32,13 @@ ht-degree: 0%
 
 이 짧은 비디오를 시청하지 않고 바로 들어가서 찾는 것이 나을 경우 UI의 두 위치에서 `Partner Subdomain`을(를) 찾을 수 있습니다.
 
-1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 **[!UICONTROL Get Trait URL]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL rule-based] 트레이트를 이미 만든 경우 다음을 클릭하십시오. **[!UICONTROL Get Trait URL]**
    [!UICONTROL Get Trait URL]은(는) 해당 폴더의 특성 목록에서 특성 옆에 있으며 URL에 하위 도메인이 포함됩니다.
 1. **[!UICONTROL Tools]** > **[!UICONTROL Tags]** 인터페이스로 이동하여 컨테이너에 대해 **[!UICONTROL Get code]**&#x200B;을(를) 클릭하면 하위 도메인이 Akamai 줄의 끝으로 이동합니다.
 
 이러한 빠른 참조로 빠르게 찾을 수 없는 경우 이 비디오는 짧은 시간 약속입니다. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/40893/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >

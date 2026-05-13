@@ -11,9 +11,13 @@ kt: 1804
 role: User
 level: Beginner
 exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+TQID: https://experienceleague.adobe.com/3ubwVnpVkcFiPfVSChUQa6MCdTAzeo9iqBivgiH3rNg
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 181
 ht-degree: 0%
 
 ---
@@ -22,7 +26,7 @@ ht-degree: 0%
 
 일부 트레이트는 사이트에서의 전환을 기반으로 합니다. 이 비디오에서는 이를 로 지정하는 방법을 알아보고 매우 중요한 팁/요령을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30932/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
 사이트에서 사람들이 수행하도록 하려는 것은 무엇입니까? 전환 이벤트란 무엇입니까? 물론 사이트 유형/수직 및 조직의 목표에 따라 이 질문에 대한 답변은 매우 다양합니다. 어떤 경우든 AAM에서는 해당 기준을 충족한 방문자를 위한 트레이트를 만드는 것이 일반적입니다.
 
