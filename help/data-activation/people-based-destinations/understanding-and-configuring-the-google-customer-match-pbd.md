@@ -11,9 +11,18 @@ kt: 6042
 role: User
 level: Beginner
 exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/tds40it5-xWTnd4vzIPGusz0scN7DiNXJjblCTnvOBc
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 107
 ht-degree: 0%
 
 ---
@@ -22,4 +31,4 @@ ht-degree: 0%
 
 이 비디오에서는 Google Customer Match People Based Destination의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 안내 설명이 포함됩니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326464/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/326464/?captions=kor&quality=12&learn=on)

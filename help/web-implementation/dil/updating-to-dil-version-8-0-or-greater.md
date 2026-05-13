@@ -10,10 +10,25 @@ kt: 1841
 role: Developer
 level: Intermediate
 exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/uM1GY5cQLRo0qsxnsfrbAuEB-1EJhDyCMyvbmCSbBbQ
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 0%
+source-wordcount: 1196
+ht-degree: 1%
 
 ---
 
@@ -41,7 +56,7 @@ Audience Manager의 [!DNL Data Integration Library]&#x200B;(DIL) 코드를 사�
 AAM에서는 시스템의 UUID(익명 고유 사용자 ID)를 고객 ID와 동기화하여 해당 고객에 대한 오프라인 데이터를 업로드하고 고객의 온라인 동작과 함께 연결하여 고객을 더 잘 이해할 수 있습니다. 과거에는 다음 두 가지 방법 중 하나로 이 작업을 수행했습니다.
 
 * [!DNL idSync] 인스턴스 수준 메서드
-* [!DNL declaredId]의 [!DNL DIL.create] 요소
+* [!DNL DIL.create]의 [!DNL declaredId] 요소
 
 이러한 이전 방법 중 하나를 사용하여 고객 ID와 동기화한 경우 ECID 서비스의 일부인 [!DNL setCustomerIDs] 메서드를 사용하도록 업데이트하는 것이 좋습니다. [!DNL setCustomerIDs]에 대한 자세한 내용은 메서드의 [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ko)를 참조하세요.
 

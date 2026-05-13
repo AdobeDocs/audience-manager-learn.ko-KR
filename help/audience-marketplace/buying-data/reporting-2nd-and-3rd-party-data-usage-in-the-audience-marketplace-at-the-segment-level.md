@@ -11,16 +11,33 @@ kt: 1758
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 4d7f4e67-095a-4708-9df3-8216df815810
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/r1aUEqQ4bKdWELfU-8qzXY6Ni2Nf7mkyAihtLu-sRZ4
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a99472c1-6aae-4c7a-8aa0-f60636369620
+  - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+subfeature_v2:
+  - id: a49258d4-867f-4130-b875-d72c001bdf6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 252
 ht-degree: 0%
 
 ---
 
 # 세그먼트 수준에서 [!UICONTROL Audience Marketplace]의 제2자 및 타사 데이터 사용 보고 {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
-이 비디오는 [!UICONTROL Payables] UI의 [!UICONTROL Audience Marketplace] 섹션 내에서 데이터 사용을 보고하는 새로운 방법을 보여 줍니다. 이제 피드 수준 보고의 기존 프로세스 외에도 세그먼트 수준에서 월간 노출수를 제출할 수 있으므로 비용 속성에 대한 오프라인 계산이 필요하지 않습니다.
+이 비디오는 [!UICONTROL Audience Marketplace] UI의 [!UICONTROL Payables] 섹션 내에서 데이터 사용을 보고하는 새로운 방법을 보여 줍니다. 이제 피드 수준 보고의 기존 프로세스 외에도 세그먼트 수준에서 월간 노출수를 제출할 수 있으므로 비용 속성에 대한 오프라인 계산이 필요하지 않습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25522/?quality=12)
 

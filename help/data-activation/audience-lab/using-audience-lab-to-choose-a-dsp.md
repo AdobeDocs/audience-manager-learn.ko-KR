@@ -8,9 +8,20 @@ kt: 1552
 role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/yfYCzDwakWNv6B2hMvCZ2yguH96vi-Nn3kQ94OrL1j0
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: 247
 ht-degree: 0%
 
 ---
@@ -19,7 +30,7 @@ ht-degree: 0%
 
 이 비디오에서는 A/B 테스트 DSP 또는 기타 AAM 대상을 사용하여 광고 지출에 대한 최상의 수익을 창출하는 대상을 확인할 수 있도록 [!UICONTROL Audience Lab] 테스트를 만드는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30931/?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/30931/?captions=kor&quality=12)
 
 [!UICONTROL Audience Lab] 테스트를 만드는 것은 쉬우며 위의 비디오에 표시된 몇 분 안에 완료할 수 있습니다. 인터페이스의 단계를 따라 다음을 설정합니다.
 

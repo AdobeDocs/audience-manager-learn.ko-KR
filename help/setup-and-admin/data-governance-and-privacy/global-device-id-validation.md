@@ -10,9 +10,25 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+  - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+subfeature_v2:
+  - id: d8f681b8-67cc-42dc-85c5-a0977528a942
+  - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 788
 ht-degree: 1%
 
 ---
@@ -75,10 +91,10 @@ ht-degree: 1%
 앱에서 광고주 ID를 설정하는 프로세스는 두 단계로, 먼저 광고주 ID를 검색한 다음 Experience Cloud으로 전송합니다. 이러한 단계를 수행하기 위한 링크는 아래에 있습니다.
 
 1. ID 검색
-   1. [!DNL Apple]에 대한 [!DNL advertising ID] 정보를 [여기](https://developer.apple.com/documentation/adsupport/asidentifiermanager)에서 찾을 수 있습니다.
-   1. [!DNL advertiser ID] 개발자를 위한 [!DNL Android] 설정에 대한 일부 정보는 [여기](http://android.cn-mirrors.com/google/play-services/id.html)에서 찾을 수 있습니다.
+   1. [!DNL advertising ID]에 대한 [!DNL Apple] 정보를 [여기](https://developer.apple.com/documentation/adsupport/asidentifiermanager)에서 찾을 수 있습니다.
+   1. [!DNL Android] 개발자를 위한 [!DNL advertiser ID] 설정에 대한 일부 정보는 [여기](http://android.cn-mirrors.com/google/play-services/id.html)에서 찾을 수 있습니다.
 1. SDK에서 [!DNL setAdvertisingIdentifier] 메서드를 사용하여 Experience Cloud으로 보냅니다.
-   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [과(와) &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)의 [!DNL iOS]설명서[!DNL Android]에 있습니다.
+   1. `setAdvertisingIdentifier` 사용에 대한 정보는 [!DNL iOS]과(와) [!DNL Android]의 [설명서](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)에 있습니다.
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
