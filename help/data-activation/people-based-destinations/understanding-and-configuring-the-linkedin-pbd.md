@@ -31,7 +31,7 @@ ht-degree: 0%
 
 이 비디오는 [!UICONTROL People-Based Destination]에서 [!DNL LinkedIn]까지 만드는 개념과 단계를 안내합니다. 사용자 기반 대상에 대한 추가 비디오 및 설명서를 기반으로 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38436/?captions=kor&quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko)를 참조하세요.
 

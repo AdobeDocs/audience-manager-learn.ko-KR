@@ -62,7 +62,7 @@ AAM에서는 시스템의 UUID(익명 고유 사용자 ID)를 고객 ID와 동�
 
 **빠른 팁:** 이전에 위의 방법 중 하나를 사용할 때 [!UICONTROL Data Source] ID(&quot;DPID&quot;)가 있는 AAM [!UICONTROL Data Source]을(를) 참조했습니다. [!DNL setCustomerIDs]&#x200B;(으)로 업데이트할 때는 AAM [!UICONTROL Data Source]의 &quot;[!UICONTROL Integration Code]&quot;을(를) 대신 사용해야 합니다. 여전히 동일한 [!UICONTROL Data Source]을(를) 가리키지만 다른 식별자입니다. 아래 비디오에 나와 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33335/?captions=kor&quality=12)
 
 다음 섹션에는 구현 방법에 따라 DIL 8.0으로 업데이트하는 단계 및 권장 사항이 나와 있습니다.
 
@@ -82,7 +82,7 @@ DIL 8.0으로 업데이트하기 위한 기본 단계
 
 1. 변경 사항을 게시합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33338/?captions=kor&quality=12)
 
 ## Adobe DTM에서 DIL 8.0으로 업데이트 {#updating-to-dil-in-adobe-dtm}
 

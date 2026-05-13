@@ -31,4 +31,4 @@ ht-degree: 0%
 
 대상 세그먼트를 DSP 또는 다른 파트너에게 보내려면 세그먼트를 Audience Manager의 대상에 매핑해야 합니다. 이 비디오는 세그먼트를 _서버 간_ 대상이라고도 하는 장치 기반 대상에 매핑하는 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41310/?captions=kor&quality=12&learn=on)
