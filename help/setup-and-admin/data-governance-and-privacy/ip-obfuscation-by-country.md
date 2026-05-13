@@ -37,4 +37,4 @@ Audience Manager은 UI에서 셀프서비스 기능을 제공하여 고객이 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)를 참조하세요.
+이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/ko_KR/aam/ip-obfuscation.html)를 참조하세요.

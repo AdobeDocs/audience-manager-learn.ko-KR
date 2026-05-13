@@ -38,9 +38,9 @@ ht-degree: 1%
 
 ## 개요 {#overview}
 
-Audience Manager의 [!DNL Data Integration Library]&#x200B;(DIL) 코드를 사용하면 웹 사이트*에서 AAM을 구현할 수 있습니다. 이전 버전의 DIL을 구현할 때는 Adobe의 ECID(Experience Cloud ID Service)도 구현할 필요가 없었습니다(매우 좋은 생각이었지만). DIL 버전 8.0부터 ECID 버전 3.3 이상에 종속됩니다. ECID 3.3 없이 또는 이전 버전으로 DIL 8.0 이상을 구현하는 경우 오류가 발생하여 작동하지 않습니다. AAM을 구현할 수 있는 방법에는 여러 가지가 있으므로, 몇 가지 권장 사항과 몇 가지 단계를 제공하기 위해 이 페이지를 만들었습니다. 아래에서는 이러한 단계 및 권장 사항이 플랫폼/구현 방법으로 분류되어 있습니다. DIL에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en)를 참조하세요.
+Audience Manager의 [!DNL Data Integration Library]&#x200B;(DIL) 코드를 사용하면 웹 사이트*에서 AAM을 구현할 수 있습니다. 이전 버전의 DIL을 구현할 때는 Adobe의 ECID(Experience Cloud ID Service)도 구현할 필요가 없었습니다(매우 좋은 생각이었지만). DIL 버전 8.0부터 ECID 버전 3.3 이상에 종속됩니다. ECID 3.3 없이 또는 이전 버전으로 DIL 8.0 이상을 구현하는 경우 오류가 발생하여 작동하지 않습니다. AAM을 구현할 수 있는 방법에는 여러 가지가 있으므로, 몇 가지 권장 사항과 몇 가지 단계를 제공하기 위해 이 페이지를 만들었습니다. 아래에서는 이러한 단계 및 권장 사항이 플랫폼/구현 방법으로 분류되어 있습니다. DIL에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ko)를 참조하세요.
 
-* 이 페이지의 설명에 나와 있는 대로, 여기에는 Adobe Analytics이 없는 AAM 고객이 사용하는 &quot;클라이언트측&quot; DIL 구현만 포함됩니다. Adobe Analytics이 있는 경우 AAM을 구현하는 서버측 전달 방법을 사용해야 합니다. 이 메서드는 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)에 설명되어 있습니다.
+* 이 페이지의 설명에 나와 있는 대로, 여기에는 Adobe Analytics이 없는 AAM 고객이 사용하는 &quot;클라이언트측&quot; DIL 구현만 포함됩니다. Adobe Analytics이 있는 경우 AAM을 구현하는 서버측 전달 방법을 사용해야 합니다. 이 메서드는 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ko)에 설명되어 있습니다.
 
 ## 중복 및 더 이상 사용되지 않는 요소 및 메서드 {#duplicate-and-deprecated-elements-and-methods}
 
@@ -48,8 +48,8 @@ Audience Manager의 [!DNL Data Integration Library]&#x200B;(DIL) 코드를 사�
 
 예:
 
-* [!DNL DIL.create]을(를) 사용하는 경우 몇 가지 요소가 더 이상 사용되지 않으므로 대신 ECID 요소를 사용해야 합니다. 이러한 요소는 [[!DNL DIL.create] 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)에서 호출됩니다.
-* [!DNL idSync] 인스턴스 수준 메서드도 메서드의 [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html)에서 호출되어 더 이상 사용되지 않습니다.
+* [!DNL DIL.create]을(를) 사용하는 경우 몇 가지 요소가 더 이상 사용되지 않으므로 대신 ECID 요소를 사용해야 합니다. 이러한 요소는 [[!DNL DIL.create] 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ko)에서 호출됩니다.
+* [!DNL idSync] 인스턴스 수준 메서드도 메서드의 [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=ko)에서 호출되어 더 이상 사용되지 않습니다.
 
 ## 고객 ID와 ID 동기화 {#id-syncing-with-a-customer-id}
 
@@ -58,7 +58,7 @@ AAM에서는 시스템의 UUID(익명 고유 사용자 ID)를 고객 ID와 동�
 * [!DNL idSync] 인스턴스 수준 메서드
 * [!DNL DIL.create]의 [!DNL declaredId] 요소
 
-이러한 이전 방법 중 하나를 사용하여 고객 ID와 동기화한 경우 ECID 서비스의 일부인 [!DNL setCustomerIDs] 메서드를 사용하도록 업데이트하는 것이 좋습니다. [!DNL setCustomerIDs]에 대한 자세한 내용은 메서드의 [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)를 참조하세요.
+이러한 이전 방법 중 하나를 사용하여 고객 ID와 동기화한 경우 ECID 서비스의 일부인 [!DNL setCustomerIDs] 메서드를 사용하도록 업데이트하는 것이 좋습니다. [!DNL setCustomerIDs]에 대한 자세한 내용은 메서드의 [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ko)를 참조하세요.
 
 **빠른 팁:** 이전에 위의 방법 중 하나를 사용할 때 [!UICONTROL Data Source] ID(&quot;DPID&quot;)가 있는 AAM [!UICONTROL Data Source]을(를) 참조했습니다. [!DNL setCustomerIDs]&#x200B;(으)로 업데이트할 때는 AAM [!UICONTROL Data Source]의 &quot;[!UICONTROL Integration Code]&quot;을(를) 대신 사용해야 합니다. 여전히 동일한 [!UICONTROL Data Source]을(를) 가리키지만 다른 식별자입니다. 아래 비디오에 나와 있습니다.
 
@@ -99,22 +99,22 @@ DIL 8.0으로 업데이트하기 위한 기본 단계
 비 Adobe 태그 관리자도 마찬가지입니다. 해당 태그 관리 솔루션에 이전 버전이 있는 경우 다음 단계에 설명된 대로 새 코드로 바꿉니다.
 
 1. DIL 라이브러리를 최신 버전(8.0 이상)으로 업데이트 - 현재 공개 위치에서 사용할 수 없으므로 Adobe Consulting 또는 Adobe 고객 지원 센터에서 최신 DIL 코드를 받아야 합니다. 그런 다음 이전 DIL 라이브러리 코드를 새 DIL 라이브러리 코드로 바꾸고 다음 단계로 이동하기만 하면 됩니다(지금 중지하지 않으면 문제가 발생합니다. 하).
-1. [!DNL ECID Service]을(를) 설치하거나 기존 버전을 3.3.0 이상으로 업데이트하십시오. GitHub 페이지에서 [최신 Experience Cloud ID 서비스 릴리스](https://github.com/Adobe-Marketing-Cloud/id-service/releases)를 다운로드할 수 있습니다. 도움이 필요하면 [설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html)를 참조하거나 Adobe 컨설턴트에게 문의하십시오.
+1. [!DNL ECID Service]을(를) 설치하거나 기존 버전을 3.3.0 이상으로 업데이트하십시오. GitHub 페이지에서 [최신 Experience Cloud ID 서비스 릴리스](https://github.com/Adobe-Marketing-Cloud/id-service/releases)를 다운로드할 수 있습니다. 도움이 필요하면 [설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko)를 참조하거나 Adobe 컨설턴트에게 문의하십시오.
 
 1. DIL용 사용자 지정 코드에 있는 더 이상 사용되지 않는 모든 메서드 또는 요소가 ECID 메서드로 이동되었는지 확인합니다.
 
    1. (DIL) `disableDestinationPublishingIframe` -> (ECID) `disableIdSyncs`
 
-      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
+      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html?lang=ko)
 
    1. (DIL) `disableIDSyncs` -> (ECID) `disableIdSyncs`
 
-      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html)
+      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/configurations/disableidsync.html?lang=ko)
 
    1. (DIL) `iframeAkamaiHTTPS` -> (ECID) `idSyncSSLUseAkamai`
 
-      [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)
+      [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ko)
 
    1. (DIL) `declaredId` -> (ECID) `setCustomerIDs`
 
-      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html)
+      [설명서](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ko)

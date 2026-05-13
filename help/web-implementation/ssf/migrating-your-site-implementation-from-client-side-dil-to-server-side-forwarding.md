@@ -92,7 +92,7 @@ AAM 구현의 서버측 전달 방법으로 이동하는 것이 좋습니다.
 
 서버측 전달로 이동하기 위한 주요 전제 조건은 Experience Cloud ID 서비스를 구현하는 것입니다. 이 작업은 Experience Platform Launch를 사용하는 경우 가장 쉽게 수행됩니다. 이 경우 ECID 확장을 설치하면 나머지는 수행됩니다.
 
-Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
+Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
 
 >[!NOTE]
 >
@@ -220,4 +220,4 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 ![거짓 성공](assets/falsesuccess.png)
 
-서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)를 참조하세요.
+서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ko)를 참조하세요.
