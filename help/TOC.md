@@ -5,8 +5,9 @@ breadcrumb-title: Audience Manager 튜토리얼
 solution: Audience Manager
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+usetq: true
 type: Tutorial
-source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
+source-git-commit: af2ccf1847942e9aa1ed1e0f534ead635cd1f055
 workflow-type: tm+mt
 source-wordcount: 1089
 ht-degree: 2%
