@@ -10,7 +10,7 @@ feature-set: Audience Manager
 landing-page-name: audience-manager
 landing-page-breadcrumb-title: Audience Manager
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/audience-manager-learn.en
+git-repo: https://github.com/AdobeDocs/audience-manager-learn.ko-KR
 index: true
 source-git-commit: 948124cc2eff5d2f622aea353027909ee1e562d1
 workflow-type: tm+mt
