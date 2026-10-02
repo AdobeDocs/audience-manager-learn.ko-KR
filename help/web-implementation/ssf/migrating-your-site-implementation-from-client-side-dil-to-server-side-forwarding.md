@@ -3,7 +3,7 @@ title: 사이트의 Audience Manager 구현을 클라이언트측 DIL에서 서�
 description: 사이트의 Audience Manager(AAM) 구현을 클라이언트측 DIL에서 서버측 전달로 마이그레이션하는 방법을 알아봅니다. 이 자습서는 AAM과 Adobe Analytics이 모두 있고 DIL(Data Integration Library) 코드를 사용하여 페이지에서 AAM으로 히트를 보내고 페이지에서 Adobe Analytics으로 히트를 보내는 경우에 적용됩니다.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # 사이트의 Audience Manager 구현을 클라이언트측 DIL에서 서버측 전달로 마이그레이션 {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-이 자습서는 Adobe Audience Manager(AAM)와 Adobe Analytics이 모두 있고 현재 DIL([!DNL Data Integration Library]) 코드를 사용하여 페이지에서 AAM으로 히트를 보내고 있으며 페이지에서 Adobe Analytics으로 히트를 보내는 경우에 적용됩니다. 이러한 두 솔루션이 모두 있고 두 솔루션은 모두 Adobe Experience Cloud의 일부이므로 서버측 전달을 사용하는 모범 사례를 따를 수 있습니다. 이렇게 하면 클라이언트측 코드가 추가 히트를 페이지에서 AAM으로 전송하는 대신 [!DNL Analytics] 데이터 수집 서버가 사이트 분석 데이터를 실시간으로 Audience Manager에 전달할 수 있습니다. 이 자습서에서는 이전 클라이언트측 DIL 구현에서 최신 서버측 전달 방법으로 전환하는 단계를 안내합니다.
+이 자습서는 Adobe Audience Manager(AAM)와 Adobe Analytics이 모두 있고 현재 DIL([!DNL Data Integration Library]) 코드를 사용하여 페이지에서 AAM으로 히트를 보내고 있으며 페이지에서 Adobe Analytics으로 히트를 보내는 경우에 적용됩니다. 이러한 두 솔루션이 모두 있고 두 솔루션은 모두 Adobe Experience Cloud의 일부이므로 클라이언트측 코드가 페이지에서 AAM으로 추가 히트를 전송하도록 하는 대신 [!DNL Analytics] 데이터 수집 서버가 실시간으로 사이트 분석 데이터를 Audience Manager에 전달할 수 있도록 서버측 전달을 사용하는 모범 사례를 따를 수 있습니다. 이 자습서에서는 이전 클라이언트측 DIL 구현에서 최신 서버측 전달 방법으로 전환하는 단계를 안내합니다.
 
 ## 클라이언트측(DIL)과 서버측 비교 {#client-side-dil-vs-server-side}
 
@@ -92,7 +105,7 @@ AAM 구현의 서버측 전달 방법으로 이동하는 것이 좋습니다.
 
 서버측 전달로 이동하기 위한 주요 전제 조건은 Experience Cloud ID 서비스를 구현하는 것입니다. 이 작업은 Experience Platform Launch를 사용하는 경우 가장 쉽게 수행됩니다. 이 경우 ECID 확장을 설치하면 나머지는 수행됩니다.
 
-Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
+Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구현하여 다른 Adobe 솔루션을 **이전**&#x200B;에 실행하십시오. 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html)를 참조하세요. 다른 유일한 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 코드의 최신 버전을 간단하게 적용할 수 있으므로 문제가 없습니다.
 
 >[!NOTE]
 >
@@ -130,7 +143,7 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**참고:** 비디오에 명시된 대로 Experience Cloud 백엔드에서 전달 기능이 완전히 구현되려면 최대 4시간이 소요됩니다.
+**참고:** 비디오에 설명된 대로 전달 활성화가 Experience Cloud 백엔드에서 완전히 구현되려면 최대 4시간이 소요됩니다.
 
 ## 시간 {#timing}
 
@@ -145,7 +158,7 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 타이밍과 순서가 중요한 이유는 전달 _really_&#x200B;이 작동하는 방식 때문입니다. 이 방식은 다음과 같은 몇 가지 기술적인 사실로 요약할 수 있습니다.
 
-* ECID(Experience Cloud ID 서비스)가 구현되어 있고 [!DNL Analytics] [!DNL Admin Console]의 스위치(&quot;스위치&quot;)가 켜져 있는 경우 아직 코드를 업데이트하지 않았더라도 데이터가 [!DNL Analytics]에서 AAM으로 전달됩니다.
+* ECID(Experience Cloud ID 서비스)가 구현되어 있고 [!DNL Analytics] [!DNL Admin Console]의 스위치(&quot;스위치&quot;)가 켜져 있는 경우 코드를 아직 업데이트하지 않았더라도 데이터가 [!DNL Analytics]에서 AAM으로 전달됩니다.
 * ECID를 구현하지 않은 경우 스위치가 켜져 있고 서버측 전달 코드가 있더라도 데이터가 전달되지 않습니다.
 * 서버측 전달 코드(플랫폼 태그든 페이지든)는 실제로 응답을 처리하며 마이그레이션을 완료하는 데 필요합니다.
 * [!UICONTROL report suite]에서 서버측 전달 스위치를 사용할 수 있지만 Platform 태그를 사용하지 않는 경우에는 Platform 태그의 속성이나 [!DNL AppMeasurement] 파일에서 코드가 처리됩니다.
@@ -220,4 +233,4 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 ![거짓 성공](assets/falsesuccess.png)
 
-서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ko)를 참조하세요.
+서버측 전달에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)를 참조하세요.

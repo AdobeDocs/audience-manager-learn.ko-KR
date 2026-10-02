@@ -11,24 +11,30 @@ topic: SPA
 role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-TQID: https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew
+TQID: 'https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
 subfeature_v2:
   - id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Implementation
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 593
+source-wordcount: '593'
 ht-degree: 0%
-
 ---
-
 # AAM으로 데이터를 전송할 때 SPA 페이지에서 모범 사례 사용 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 이 문서에서는 단일 페이지 애플리케이션(SPA)에서 Adobe Audience Manager(AAM)로 데이터를 전송하는 몇 가지 모범 사례에 대해 설명합니다. 이 문서에서는 권장 구현 방식인 [!UICONTROL Experience Platform tags]을(를) 사용하는 데 중점을 둡니다.
@@ -67,7 +73,7 @@ Platform 태그에서 규칙을 트리거하여 데이터를 Audience Manager으
 * 데이터 레이어는 Platform 태그 호출 전 페이지의 헤드에 있습니다.
 * 시뮬레이션된 SPA 링크의 JavaScript이 [!UICONTROL Data Layer]을(를) 변경한 다음 플랫폼 태그(`_satellite.track()` 호출)를 호출합니다. 이 [!UICONTROL Direct Call Rule] 대신 JavaScript 사용자 지정 이벤트를 사용하는 경우 단원은 동일합니다. 먼저 [!DNL data layer]을(를) 변경한 다음 Platform 태그를 호출합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34821/?captions=kor&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## 추가 리소스 {#additional-resources}
 

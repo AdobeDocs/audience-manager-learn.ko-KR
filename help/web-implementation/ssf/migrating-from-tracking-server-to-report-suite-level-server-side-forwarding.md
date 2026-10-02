@@ -3,7 +3,7 @@ title: 추적 서버에서 보고서 세트 수준의 서버측 전달로 마이
 description: Adobe Analytics 데이터의 서버측 전달을 추적 서버 수준이 아닌 보고서 세트 수준에서 Audience Manager에 활성화하는 방법에 대해 알아봅니다.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,25 +11,34 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+TQID: 'https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Measurement
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 608
+source-wordcount: '608'
 ht-degree: 0%
-
 ---
-
 # 추적 서버에서 보고서 세트 수준의 서버측 전달로 마이그레이션 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
 이 문서와 비디오에서는 [!UICONTROL tracking server] 수준이 아닌 [!UICONTROL report suite] 수준에서 Audience Manager에 [!DNL Analytics] 데이터의 서버측 전달을 활성화하는 방법을 보여 줍니다.
@@ -46,13 +55,13 @@ Adobe Audience Manager 및 Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-서버측 전달이 [!UICONTROL tracking server] 수준에서 전달하도록 설정되어 있는 경우, 이 [!UICONTROL tracking server]&#x200B;(Experience Cloud ID 서비스 또한 사용하도록 설정된 경우)로 전송되는 모든 히트가 Audience Manager으로 전달됩니다. Adobe 고객 지원 센터 또는 Adobe Consulting에서 활성화해야 합니다. 또한 아래 설명된 대로 [!UICONTROL report suite] 전달로 전환한 후 이를 비활성화할 수 있습니다.
+서버측 전달이 [!UICONTROL tracking server] 수준에서 전달하도록 설정되어 있는 경우, 이 [!UICONTROL tracking server]&#x200B;(Experience Cloud ID 서비스도 활성화된 경우)로 전송되는 모든 히트는 Audience Manager으로 전달됩니다. Adobe 고객 지원 센터 또는 Adobe Consulting에서 활성화해야 합니다. 또한 아래 설명된 대로 [!UICONTROL report suite] 전달로 전환한 후 이를 비활성화할 수 있습니다.
 
 [!DNL tracking server forwarding]이(가) 활성화되어 있는지 확실하지 않은 경우 Adobe 고객 지원 센터 또는 Adobe Consulting에 연락하면 알려 줄 수 있습니다.
 
 ## [!UICONTROL Report-suite] 수준 서버측 전달 {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL tracking server] 전달에서 [!UICONTROL report suite] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL report suite] 전달이 아닌 [!UICONTROL tracking server] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
+[!UICONTROL tracking server] 전달에서 [!UICONTROL report suite] 전달로 이동하는 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;를 사용할 수 있다는 것입니다. 이 기능은 자세한 세그먼트 분석을 위해 Audience Manager [!UICONTROL segments]을(를) Adobe Analytics으로 다시 전달하는 기능입니다. [!UICONTROL report suite] 전달이 아닌 [!UICONTROL tracking server] 전달을 사용하는 경우에는 이 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)에서 Audience Analytics에 대한 자세한 내용을 확인하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
