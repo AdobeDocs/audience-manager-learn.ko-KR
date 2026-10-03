@@ -7,30 +7,43 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 0%
-
 ---
-
 # Audience Manager의 IAB TCF 2.2 지원 {#iab-tcf-support-in-audience-manager}
 
 Adobe은 옵트인 기능 및 Audience Manager 플러그인을 통해 IAB TCF 2.2(Transparency and Consent Framework 2.2) 지원에 대한 사용자의 개인 정보 보호 선택을 관리 및 소통할 수 있는 수단을 제공합니다. 이 문서는 IAB TCF에 대한 Audience Manager 플러그인 및 Adobe의 옵트인 개체 및 동의 관리 공급자(CMP)와 함께 작동하는 방법을 이해하는 데 도움이 되는 문서와 함께 작동합니다. IAB에 대해 자세히 알아보려면 해당 웹 사이트([https://www.iabeurope.eu/](https://www.iabeurope.eu/))를 참조하십시오.
 
-## 첫 단계: Experience Cloud ID 옵트인 이해 {#first-step-understand-ecid-s-opt-in}
+## 첫 번째 단계: Experience Cloud ID 옵트인 이해 {#first-step-understand-ecid-s-opt-in}
 
 IAB TCF 작업 방법을 이해하려면 먼저 ECID(Experience Cloud ID Service) 라이브러리의 일부인 [!DNL Opt-in] 기능을 이해해야 합니다. 옵트인 작동 방식을 잘 모를 경우 먼저 [이 유용한 문서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=ko)를 참조하세요. 옵트인 [설명서](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ko)도 검토해야 합니다. 해당 리소스를 모두 사용한 후에는 이 페이지로 돌아가 계속하십시오.
 

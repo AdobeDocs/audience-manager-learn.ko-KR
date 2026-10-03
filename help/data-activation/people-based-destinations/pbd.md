@@ -2,7 +2,7 @@
 title: 사용자 기반 대상 비디오 및 자습서
 description: Audience Manager의 사용자 기반 대상에 대해 알아봅니다. 온라인 및 오프라인 데이터에 세그먼테이션을 적용하여 이메일 주소 등 해시된 식별자를 기반으로 대상 세그먼트를 만드는 방법을 살펴봅니다!
 feature: People-based Destinations
-topics: null
+topics:
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -10,22 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-TQID: https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA
+TQID: 'https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
+    internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Beginner
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 0%
-
 ---
-
 # 사용자 기반 대상 비디오 및 자습서
 
 사용자 기반 대상을 사용하면 온라인 및 오프라인 데이터에 세그멘테이션을 적용하여 이메일 주소와 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들 수 있습니다. 그런 다음 이러한 세그먼트를 [!DNL Facebook] 또는 [!DNL LinkedIn]과(와) 같은 소셜 플랫폼으로 보내어 대상을 타기팅할 수 있습니다.

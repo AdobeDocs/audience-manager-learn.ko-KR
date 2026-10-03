@@ -2,32 +2,43 @@
 title: Audience Manager 비디오 및 자습서
 description: Adobe Audience Manager을 위한 비디오 및 튜토리얼 모음입니다.
 feature: Overview
-topics: null
+topics:
 activity: use
 doc-type: overview
 team: Technical Marketing
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-TQID: https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag
+TQID: 'https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: ce14ba14-a06d-4b2b-b7dd-04cb862494ec
+    internal-label: Administration
+subfeature_v2:
+  - id: fa77d762-7e75-47b2-9bb4-e3fcf50d251d
+    internal-label: Overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Data management
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '320'
 ht-degree: 5%
-
 ---
-
 # Audience Manager 자습서
 
 Audience Manager 자습서 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ko)와 함께 이 튜토리얼을 사용하면 Adobe Audience Manager의 동급 최강의 [!DNL data management platform]을(를) 사용하여 모든 채널 또는 장치에서 Adobe을 사용하여 대상자를 만들고 활성화하는 방법을 더 잘 이해할 수 있습니다.
@@ -51,15 +62,15 @@ Audience Manager 자습서 사이트에 오신 것을 환영합니다. [설명�
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko">
-      <img alt="&apos;웹 SDK으로 Adobe Experience Cloud 구현 자습서&apos;에 대한 썸네일 이미지" src="assets/implement-web-sdk.jpg" />
+      <img alt="&apos;웹 SDK 자습서와 함께 Adobe Experience Cloud 구현&apos; 자습서에 대한 썸네일 이미지" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko">
-    <strong>Web SDK 자습서를 사용하여 Adobe Experience Cloud 구현</strong>
+    <strong>웹 SDK 자습서를 사용하여 Adobe Experience Cloud 구현</strong>
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform Web SDK을 사용하여 Experience Cloud 응용 프로그램을 구현하는 방법에 대해 알아봅니다.</em>
+    <em>Adobe Experience Platform Web SDK을 사용하여 Experience Cloud 애플리케이션을 구현하는 방법을 알아봅니다.</em>
     <p>
   </td>
   <td>

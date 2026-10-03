@@ -2,7 +2,7 @@
 title: 파일 기반 데이터 수집 방법
 description: 이 비디오에서는 데이터 파일에 대한 파일 이름 요구 사항을 포함하여 오프라인 데이터를 Audience Manager에 온보딩할 때 취해야 할 단계에 대해 알아봅니다.
 feature: Onboarding Offline Data
-topics: null
+topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,29 +11,38 @@ kt: 7027
 role: User
 level: Beginner
 exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
-TQID: https://experienceleague.adobe.com/yiqGcGzZAVASA56ZyUiOuPN5D6gsCrFeLHAYpGYO-jI
+TQID: 'https://experienceleague.adobe.com/yiqGcGzZAVASA56ZyUiOuPN5D6gsCrFeLHAYpGYO-jI'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
   - id: a99472c1-6aae-4c7a-8aa0-f60636369620
+    internal-label: Reporting
   - id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+    internal-label: Audience Marketplace
 subfeature_v2:
   - id: a49258d4-867f-4130-b875-d72c001bdf6c
+    internal-label: Overlap Reports
+  - id: 81ea4607-deb9-5aa9-822c-9d779f9a7c7e
+    internal-label: Onboarding Offline Data
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Implementation
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 0%
-
 ---
-
 # 파일 기반 데이터 수집 단계
 
 이 비디오에서는 데이터 파일에 대한 파일 이름 요구 사항을 포함하여 오프라인 데이터를 Audience Manager에 온보딩할 때 취해야 할 단계에 대해 알아봅니다.
