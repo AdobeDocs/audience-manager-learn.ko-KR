@@ -14,10 +14,13 @@ exl-id: eba827a3-38c9-4136-bc73-3783f4be8c1c
 TQID: https://experienceleague.adobe.com/UqD-ApjtzXBWaE40bliI-fSaOuD5Z9sqcmSIMkudAnA
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
 source-wordcount: 86
