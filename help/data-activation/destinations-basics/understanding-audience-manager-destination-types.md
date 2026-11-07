@@ -41,7 +41,7 @@ ht-degree: 0%
 
 이 비디오에서는 Adobe Audience Manager의 다양한 유형의 대상을 안내하고 각 대상을 사용하는 시기에 대한 예를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507793/?captions=kor&quality=12)
 
 [Audience Manager 장치 기반 대상 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=ko)에서 사용 가능한 서버 간 대상 파트너 목록을 볼 수 있습니다.
 

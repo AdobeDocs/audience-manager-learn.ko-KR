@@ -41,6 +41,6 @@ ht-degree: 0%
 
 이 비디오는 Adobe Audience Manager의 일치율, 정의 및 계산 방법을 이해하는 데 도움이 됩니다. 또한 몇 가지 모범 사례와 낮은 일치율을 유발할 수 있는 원인에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507450/?captions=kor&quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=ko)를 참조하세요.
