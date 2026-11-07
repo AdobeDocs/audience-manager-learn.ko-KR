@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Audience Manager에서 특성을 유지하는 폴더 구조를 만드는 방법에 대한 팁을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507675/?captions=kor&quality=12&learn=on)

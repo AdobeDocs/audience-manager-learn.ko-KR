@@ -19,4 +19,4 @@ ht-degree: 0%
 
 사용 준비를 위해 설정하는 방법을 포함하여 Audience Manager의 트레이트 및 세그먼트를 위한 벌크 관리 도구인 BAAAM에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507377/?captions=kor&quality=12&learn=on)

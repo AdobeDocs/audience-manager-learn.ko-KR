@@ -141,7 +141,7 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 지금까지 이 자습서에서는 클라이언트 측 DIL 코드에서 서버 측 전달로 코드를 전환하는 데 모든 시간을 투자했습니다. 그게 더 어려운 부분이기 때문에 괜찮습니다. 이 섹션은 매우 간단하지만 코드를 업데이트하는 것만큼 중요합니다. 이 비디오에서는 Analytics에서 Audience Manager으로 데이터를 실제로 전달할 수 있도록 하는 스위치를 전환하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507522/?captions=kor&quality-12)
 
 **참고:** 비디오에 설명된 대로 전달 활성화가 Experience Cloud 백엔드에서 완전히 구현되려면 최대 4시간이 소요됩니다.
 
@@ -222,7 +222,7 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 전혀 없는 경우 ECID를 구�
 
 [!DNL Analytics]에서 Audience Manager으로 데이터의 서버측 전달을 수행하지 않을 경우 [!DNL Analytics] 비콘에 대한 응답(2x2 픽셀 외)이 실제로 없습니다. 그러나 서버측 전달을 수행하는 경우 [!DNL Analytics] 요청 및 응답에서 확인할 수 있는 항목이 있습니다. 이 항목은 [!DNL Analytics]이(가) Audience Manager과 올바르게 통신하고 히트를 전달하며 응답을 받고 있음을 알려줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507422/?captions=kor&quality=12)
 
 >[!WARNING]
 >
